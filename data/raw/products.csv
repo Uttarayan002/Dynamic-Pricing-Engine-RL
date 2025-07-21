@@ -1,0 +1,1501 @@
+sku_id,product_name,category,brand,MRP,base_cost,launch_date
+P0001,Program Go,Electronics,,1308.75,823.9,2024-07-07
+P0002,Whole Max,Apparel,BrandD,1465.23,854.11,2023-09-02
+P0003,Happy Plus,Electronics,BrandE,537.82,353.3,2021-08-14
+P0004,Sure Go,Beauty,BrandA,532.78,328.46,2022-07-16
+P0005,Though Go,Sports,BrandD,1316.92,769.06,2022-06-18
+P0006,Term Plus,Home & Kitchen,BrandB,400.84,238.49,2023-08-03
+P0007,Amount Pro,Books,BrandA,874.95,,2022-01-25
+P0008,movement lite  ,Books,BrandF,264.76,,2023-10-29
+P0009,common max  ,Books,,385.47,289.1,2023-06-29
+P0010,His Pro,Electronics,BrandF,442.5,315.85,2024-09-07
+P0011,Book X,Books,BrandB,,,2023-05-08
+P0012,can plus  ,Books,BrandA,1182.68,677.19,2023-01-28
+P0013,Thing Plus,Books,BrandE,303.56,247.94,2021-06-10
+P0014,Gas Plus,Sports,BrandA,430.26,220.65,2023-07-13
+P0015,day x  ,Electronics,BrandC,,607.97,2021-12-19
+P0016,Citizen X,Books,BrandB,1088.89,844.39,2023-03-22
+P0017,To Pro,Sports,BrandD,859.9,574.02,2024-02-14
+P0018,From X,Beauty,BrandE,1230.36,967.33,2023-12-31
+P0019,Exactly Lite,Home & Kitchen,BrandA,1598.69,917.5,2021-08-08
+P0020,inside x  ,Home & Kitchen,BrandD,991.94,547.97,2022-09-11
+P0021,Find Max,Apparel,BrandC,896.56,678.53,2023-04-12
+P0022,Evidence Max,Apparel,BrandE,1440.52,972.79,2023-05-17
+P0023,career go  ,Electronics,BrandF,762.89,402.48,2022-01-10
+P0024,Make Pro,Home & Kitchen,BrandD,1036.1,706.28,2024-04-10
+P0025,practice pro  ,Electronics,,343.06,272.6,2021-10-22
+P0026,Structure X,Electronics,BrandE,997.79,571.01,2022-08-11
+P0027,Will X,Home & Kitchen,BrandC,1167.75,842.69,2024-03-17
+P0028,Debate Lite,Books,BrandD,1284.06,949.84,2023-06-14
+P0029,argue x  ,Sports,BrandD,571.55,374.39,2024-09-10
+P0030,Man Max,Home & Kitchen,BrandA,607.35,355.53,2021-02-02
+P0031,Now Plus,Home & Kitchen,BrandE,194.1,132.58,2021-07-14
+P0032,Change X,Apparel,BrandF,497.02,394.47,2024-01-13
+P0033,Despite Lite,Electronics,BrandC,1229.77,966.33,2024-07-28
+P0034,Ask Go,Home & Kitchen,BrandE,935.75,732.17,2023-05-25
+P0035,Teacher X,Electronics,BrandF,369.18,227.37,2023-07-09
+P0036,Now Pro,Electronics,BrandE,,191.23,2024-11-27
+P0037,Apply Plus,Sports,BrandC,1069.52,,2022-02-12
+P0038,Even X,Beauty,BrandE,1228.48,754.96,2021-10-03
+P0039,Usually Pro,Apparel,BrandB,1090.46,853.16,2023-12-01
+P0040,Green Go,Electronics,BrandF,1234.01,751.9,2022-07-16
+P0041,Maybe Plus,Beauty,BrandE,168.43,101.27,2022-11-16
+P0042,Another Lite,Books,BrandB,998.14,581.43,2023-01-23
+P0043,Manager Plus,Electronics,BrandF,207.73,168.63,2022-04-02
+P0044,Treatment Pro,Beauty,BrandF,1551.21,981.27,2024-10-22
+P0045,month max  ,Sports,BrandC,,223.02,2022-11-15
+P0046,score lite  ,Beauty,BrandD,1064.77,577.97,2023-11-13
+P0047,Require Plus,Apparel,BrandB,162.74,123.27,2023-12-26
+P0048,Sometimes Pro,Electronics,BrandF,1047.98,812.63,2021-01-12
+P0049,woman max  ,Sports,BrandB,581.92,,2024-10-07
+P0050,Present Lite,Home & Kitchen,BrandF,1110.26,671.55,2022-07-14
+P0051,Wear Lite,Electronics,BrandE,799.96,400.19,2024-08-15
+P0052,among lite  ,Apparel,BrandB,,980.86,2024-10-16
+P0053,Six Plus,Sports,BrandB,776.45,465.09,2021-05-25
+P0054,Point Pro,Apparel,BrandD,1420.43,782.02,2022-10-30
+P0055,Ahead Go,Sports,BrandC,,180.58,2024-08-09
+P0056,Mrs Max,Sports,BrandB,1700.29,854.94,2022-05-29
+P0057,Move Lite,Books,BrandC,809.94,474.45,2024-04-17
+P0058,Guy Plus,Home & Kitchen,BrandC,495.55,,2023-01-14
+P0059,Give Go,Home & Kitchen,BrandE,,511.87,2023-09-20
+P0060,even plus  ,Home & Kitchen,,,,2024-07-01
+P0061,road go  ,Sports,BrandF,595.18,329.67,2021-12-21
+P0062,Whatever Go,Electronics,BrandE,341.57,207.64,2021-12-15
+P0063,Effort Max,Home & Kitchen,BrandF,1192.02,806.46,2024-07-22
+P0064,Television Go,Apparel,BrandE,989.33,550.39,2021-07-11
+P0065,Energy Go,Sports,BrandB,611.6,449.48,2022-04-28
+P0066,Left Max,Books,BrandC,,856.18,2024-05-20
+P0067,Enough Plus,Books,BrandC,245.84,164.46,2028-01-01
+P0068,house plus  ,Home & Kitchen,BrandE,1728.35,875.36,2024-10-28
+P0069,Technology Pro,Beauty,BrandF,147.88,110.52,2023-12-03
+P0070,Level Pro,Home & Kitchen,BrandE,228.36,135.32,2021-04-17
+P0071,Thought Plus,Home & Kitchen,BrandE,235.25,153.53,2022-04-15
+P0072,Machine Plus,Electronics,BrandF,1204.22,,2024-04-10
+P0073,Say Go,Home & Kitchen,,317.28,218.19,2021-04-12
+P0074,Finally Max,Sports,BrandE,700.05,,2023-04-07
+P0075,Whole X,Beauty,BrandB,144.35,120.28,2022-03-17
+P0076,Various Pro,Sports,BrandD,361.3,280.94,2024-03-11
+P0077,Mean Lite,Sports,BrandF,785.66,585.17,2024-11-13
+P0078,Should Go,Home & Kitchen,BrandD,538.15,433.93,2023-06-04
+P0079,Huge X,Sports,BrandD,,705.72,2022-08-12
+P0080,Face Plus,Home & Kitchen,BrandF,408.23,264.07,2024-12-25
+P0081,rock plus  ,Sports,BrandF,809.97,511.41,2023-02-26
+P0082,south plus  ,Apparel,BrandC,340.17,214.43,2023-09-23
+P0083,Ever Go,Sports,,622.87,461.42,2022-05-08
+P0084,Them Max,Beauty,BrandA,,201.76,2021-06-27
+P0085,Defense Pro,Sports,BrandF,421.11,,2023-09-05
+P0086,Majority Pro,Home & Kitchen,BrandF,736.27,795.05,2021-11-24
+P0087,Ball Pro,Home & Kitchen,BrandF,972.8,587.01,2021-11-21
+P0088,Off Max,Sports,BrandC,687.95,354.87,2021-03-13
+P0089,Stay Lite,Apparel,BrandE,457.41,291.15,2021-09-29
+P0090,Kid X,Electronics,BrandE,1671.65,874.23,2024-12-30
+P0091,Senior Lite,Books,BrandD,477.79,564.59,2023-07-09
+P0092,though pro  ,Home & Kitchen,BrandB,159.15,128.47,2023-08-01
+P0093,Dream X,Home & Kitchen,BrandD,,304.0,2021-08-18
+P0094,upon plus  ,Sports,,1651.35,960.8,2024-07-29
+P0095,table lite  ,Electronics,,227.82,,2021-07-29
+P0096,My Max,Beauty,BrandC,237.28,120.23,2021-07-22
+P0097,speech pro  ,Home & Kitchen,BrandE,834.35,666.97,2022-05-20
+P0098,Instead Pro,Beauty,BrandF,,613.04,2024-05-29
+P0099,Enjoy X,Sports,BrandA,1343.56,834.97,2022-11-06
+P0100,High Pro,Home & Kitchen,,1156.63,890.96,2021-10-10
+P0101,Significant Max,Home & Kitchen,BrandE,242.86,133.02,2023-09-02
+P0102,Civil Pro,Apparel,BrandC,251.41,147.5,2021-11-12
+P0103,Rise Plus,Home & Kitchen,BrandF,540.09,307.39,2021-10-28
+P0104,parent x  ,Sports,,1614.55,945.95,2022-12-11
+P0105,Different Go,Home & Kitchen,BrandA,1113.01,690.79,2028-01-01
+P0106,Value Max,Sports,BrandF,729.11,582.55,2022-07-07
+P0107,Economic Lite,Sports,BrandB,477.59,,2024-06-28
+P0108,Hear Lite,Sports,BrandF,,147.88,2024-05-24
+P0109,recent plus  ,Beauty,BrandF,619.78,747.32,2024-03-24
+P0110,Game Max,Home & Kitchen,BrandD,95.6,108.23,2024-02-25
+P0111,West Plus,Beauty,,423.49,325.69,2021-12-12
+P0112,property go  ,Sports,,711.61,807.65,2023-05-15
+P0113,Current Pro,Home & Kitchen,BrandD,1120.29,841.03,2023-09-28
+P0114,Go Go,Apparel,BrandC,,208.42,2024-09-06
+P0115,sense pro  ,Home & Kitchen,BrandF,326.72,226.5,2021-01-08
+P0116,Community Plus,Sports,BrandF,1607.44,986.7,2022-07-10
+P0117,Item Lite,Electronics,BrandB,1032.25,602.98,2022-11-19
+P0118,yourself plus  ,Home & Kitchen,BrandF,379.53,266.0,2024-09-28
+P0119,Role Lite,Home & Kitchen,BrandF,590.74,451.23,2028-01-01
+P0120,With Pro,Electronics,BrandE,,444.11,2021-05-03
+P0121,Sister Pro,Apparel,,1258.13,718.99,2022-08-20
+P0122,Player X,Sports,BrandD,1315.86,704.18,2021-04-03
+P0123,Magazine X,Books,BrandD,782.12,926.81,2022-02-12
+P0124,Quality Go,Electronics,BrandB,,712.08,2022-12-24
+P0125,Reason Go,Apparel,BrandE,566.81,424.26,2021-11-21
+P0126,Cell Go,Sports,BrandE,1281.23,909.06,2021-04-12
+P0127,Sell Go,Home & Kitchen,,,164.63,2022-07-20
+P0128,Hope X,Electronics,BrandF,1126.08,915.9,2024-06-21
+P0129,professor max  ,Home & Kitchen,BrandD,1219.09,836.4,2024-10-06
+P0130,Cup Go,Books,BrandD,467.44,235.54,2024-01-10
+P0131,Girl X,Apparel,BrandC,,335.07,2024-05-28
+P0132,Plan X,Electronics,BrandE,,922.44,2023-01-24
+P0133,Catch X,Sports,,786.9,460.46,2023-07-23
+P0134,When Plus,Home & Kitchen,BrandC,652.16,745.51,2022-11-28
+P0135,Hit Go,Books,BrandD,1034.13,658.93,2023-11-27
+P0136,Bit Pro,Sports,BrandC,171.67,113.63,2023-02-11
+P0137,Couple Pro,Books,BrandF,362.02,232.86,2021-09-01
+P0138,Movement Max,Apparel,BrandB,385.71,274.4,2021-05-03
+P0139,Agency Go,Sports,,218.14,111.61,2028-01-01
+P0140,Support Pro,Electronics,BrandD,1394.0,956.85,2024-08-09
+P0141,Sense Plus,Apparel,BrandA,165.97,124.08,2021-07-23
+P0142,Budget Max,Sports,BrandC,620.17,455.62,2024-11-04
+P0143,Some Pro,Apparel,BrandE,1184.0,689.05,2024-06-10
+P0144,Rest Pro,Home & Kitchen,BrandC,913.5,616.29,2022-03-15
+P0145,Whatever X,Electronics,BrandF,649.69,973.97,2023-08-16
+P0146,Player Lite,Books,BrandD,1338.54,766.2,2023-01-04
+P0147,Much X,Apparel,,572.03,336.15,2021-02-27
+P0148,Smile Max,Apparel,,660.55,432.68,2024-04-27
+P0149,Feeling Max,Apparel,BrandF,604.04,462.58,2022-08-16
+P0150,Operation Pro,Apparel,BrandE,159.06,103.16,2023-12-02
+P0151,Sure X,Books,BrandB,245.45,128.63,2023-08-29
+P0152,Travel Lite,Books,BrandE,905.8,724.91,2021-03-15
+P0153,Social X,Home & Kitchen,BrandC,795.25,604.29,2021-02-01
+P0154,Walk Plus,Apparel,BrandB,737.85,506.29,2024-08-28
+P0155,Ok Lite,Books,BrandF,1014.85,552.67,2023-02-25
+P0156,Economy Lite,Beauty,BrandC,978.59,723.87,2021-11-26
+P0157,Firm Lite,Electronics,BrandB,739.93,452.67,2024-12-26
+P0158,Leave Lite,Apparel,BrandB,497.4,288.84,2024-12-08
+P0159,Important Lite,Home & Kitchen,BrandD,562.78,413.0,2023-08-02
+P0160,Into Pro,Books,BrandB,990.09,626.15,2021-06-13
+P0161,Benefit Max,Beauty,,1126.21,688.98,2022-10-23
+P0162,Quite Lite,Home & Kitchen,BrandF,1573.56,873.22,2023-12-25
+P0163,accept pro  ,Electronics,BrandC,326.66,233.92,2023-01-28
+P0164,Dog Pro,Apparel,BrandB,390.37,613.78,2023-11-18
+P0165,Huge Go,Electronics,BrandC,1627.8,930.35,2024-11-18
+P0166,Explain Lite,Books,BrandA,176.42,271.53,2022-11-07
+P0167,care lite  ,Electronics,BrandC,,964.4,2022-06-23
+P0168,Main Plus,Apparel,BrandD,822.02,589.35,2024-04-14
+P0169,Role Lite,Books,BrandE,398.01,231.29,2024-06-18
+P0170,Once Plus,Electronics,BrandD,901.74,516.31,2023-09-30
+P0171,International Pro,Home & Kitchen,BrandC,1387.02,854.52,2024-12-29
+P0172,Threat Go,Beauty,BrandC,,998.91,2024-09-01
+P0173,Clearly X,Beauty,BrandB,127.11,181.27,2024-10-01
+P0174,part max  ,Electronics,BrandC,175.43,125.78,2021-11-20
+P0175,Easy Max,Apparel,BrandF,400.36,313.76,2021-05-15
+P0176,Later X,Electronics,BrandA,440.33,223.15,2022-10-26
+P0177,Do Pro,Beauty,BrandF,740.46,531.09,2024-04-28
+P0178,For Plus,Beauty,BrandF,870.92,710.63,2021-06-24
+P0179,Prove Go,Sports,BrandA,1408.04,873.89,2023-12-12
+P0180,Purpose Lite,Home & Kitchen,BrandA,759.15,465.42,2021-01-22
+P0181,Rise X,Books,,1147.93,621.62,2024-10-08
+P0182,Medical X,Electronics,BrandF,1147.39,766.3,2021-02-04
+P0183,Perhaps Pro,Home & Kitchen,BrandD,290.34,155.73,2024-06-21
+P0184,Space Pro,Sports,,1056.6,822.13,2021-09-20
+P0185,Really Pro,Beauty,BrandC,1317.99,885.18,2024-02-10
+P0186,career plus  ,Beauty,BrandA,958.83,,2023-11-16
+P0187,Decade Pro,Home & Kitchen,BrandB,1343.71,727.79,2022-03-07
+P0188,Language Plus,Sports,BrandE,675.91,430.49,2024-10-07
+P0189,turn lite  ,Home & Kitchen,BrandA,345.37,230.94,2021-11-07
+P0190,Dream Go,Electronics,BrandE,1021.12,512.17,2021-07-21
+P0191,Book Lite,Home & Kitchen,BrandD,1107.79,631.84,2023-03-10
+P0192,Discussion Pro,Beauty,BrandC,827.72,424.63,2024-01-19
+P0193,Rather Lite,Apparel,BrandA,505.63,381.45,2022-09-07
+P0194,Start Plus,Electronics,BrandD,371.99,251.91,2022-11-22
+P0195,Poor Max,Home & Kitchen,BrandC,536.54,416.53,2023-04-12
+P0196,Manager X,Sports,BrandD,1420.61,745.9,2022-08-11
+P0197,Civil Go,Sports,BrandC,1116.02,816.46,2024-11-30
+P0198,Worry X,Beauty,BrandE,725.21,373.6,2024-12-27
+P0199,Sea Go,Books,BrandF,833.92,446.65,2024-04-30
+P0200,republican go  ,Electronics,BrandA,1811.76,925.72,2021-11-05
+P0201,Case X,Beauty,BrandA,,182.07,2021-09-01
+P0202,Would Go,Apparel,BrandA,1809.56,960.95,2021-02-18
+P0203,Not Plus,Books,BrandB,1286.59,660.21,2023-05-02
+P0204,Own Max,Beauty,BrandE,434.39,341.52,2022-12-08
+P0205,Somebody Pro,Electronics,,,667.24,2021-12-21
+P0206,Focus Pro,Electronics,BrandD,,498.93,2022-02-23
+P0207,Argue Go,Apparel,,1223.37,879.29,2021-11-27
+P0208,Drug Max,Apparel,BrandA,307.32,187.75,2023-05-21
+P0209,Difficult Pro,Electronics,BrandA,434.26,340.88,2021-09-19
+P0210,Step Go,Sports,BrandD,225.18,114.1,2023-01-31
+P0211,Something Max,Sports,BrandA,1883.67,966.66,2022-02-09
+P0212,Energy Pro,Beauty,,722.25,423.57,2023-11-20
+P0213,Talk Pro,Books,,1176.52,,2024-03-14
+P0214,Deal X,Home & Kitchen,BrandA,1019.03,746.66,2021-01-26
+P0215,Close X,Books,BrandF,1403.88,904.35,2021-02-03
+P0216,Home Plus,Beauty,BrandB,1719.8,923.28,2021-02-18
+P0217,Contain Lite,Electronics,BrandA,923.59,611.13,2023-02-26
+P0218,Detail Go,Sports,BrandF,156.8,183.88,2023-11-28
+P0219,Say Go,Home & Kitchen,BrandC,969.19,576.48,2024-11-06
+P0220,pick max  ,Sports,,544.69,392.61,2021-10-15
+P0221,Well Go,Home & Kitchen,,571.32,474.4,2021-08-09
+P0222,Than X,Electronics,BrandF,,162.0,2024-05-22
+P0223,Stay X,Sports,BrandF,970.56,543.21,2023-01-17
+P0224,Learn Pro,Electronics,BrandF,317.67,469.23,2023-08-04
+P0225,Nothing Lite,Home & Kitchen,BrandF,846.31,,2022-05-11
+P0226,Let X,Electronics,BrandD,1268.49,908.75,2023-09-02
+P0227,Yet X,Apparel,BrandB,555.28,352.24,2024-03-24
+P0228,Coach Go,Books,BrandB,,778.72,2024-05-06
+P0229,Professional Go,Beauty,BrandE,230.94,139.35,2024-05-18
+P0230,Election Pro,Electronics,BrandC,158.17,109.69,2022-05-11
+P0231,See X,Books,BrandF,694.97,,2028-01-01
+P0232,Themselves Lite,Books,BrandE,,694.6,2021-09-16
+P0233,me x  ,Sports,BrandD,1333.61,987.35,2023-09-19
+P0234,Maintain Max,Sports,,,615.88,2021-11-19
+P0235,Rate Pro,Apparel,BrandA,594.2,395.47,2024-09-08
+P0236,Good Max,Electronics,,223.86,152.71,2021-03-22
+P0237,Continue Lite,Apparel,BrandD,1282.98,771.96,2022-03-24
+P0238,Watch Pro,Beauty,BrandF,,135.4,2024-11-29
+P0239,Rule Pro,Sports,BrandE,977.01,494.42,2021-11-18
+P0240,Course Go,Books,BrandB,1158.17,595.25,2022-05-21
+P0241,Leave Go,Sports,BrandB,420.69,269.53,2023-03-30
+P0242,Raise Lite,Home & Kitchen,,1742.22,901.05,2024-09-17
+P0243,force x  ,Electronics,BrandC,1047.17,546.6,2024-08-22
+P0244,Them Lite,Electronics,BrandC,696.1,554.25,2021-11-05
+P0245,Let Max,Sports,BrandD,1387.69,980.63,2024-10-12
+P0246,film x  ,Electronics,BrandF,834.73,515.86,2021-06-10
+P0247,Cover Go,Books,BrandF,601.78,,2023-11-24
+P0248,Person Lite,Home & Kitchen,,787.42,490.43,2021-07-01
+P0249,Source Go,Electronics,BrandD,,321.96,2021-05-20
+P0250,And Go,Books,BrandA,222.24,115.47,2024-03-30
+P0251,Country Pro,Sports,BrandF,166.98,136.09,2021-10-06
+P0252,Man Lite,Books,,1716.79,922.51,2023-12-21
+P0253,Book Go,Electronics,BrandC,1023.9,791.57,2021-12-01
+P0254,Despite Go,Electronics,BrandD,195.34,103.55,2024-05-05
+P0255,today go  ,Electronics,BrandF,596.49,459.3,2022-10-03
+P0256,Soon X,Sports,BrandD,594.28,,2024-05-17
+P0257,System Max,Electronics,BrandB,209.76,148.14,2021-05-22
+P0258,chair pro  ,Apparel,BrandB,1185.83,774.74,2023-04-13
+P0259,Him Go,Home & Kitchen,BrandB,,475.82,2024-06-21
+P0260,Administration Max,Books,BrandF,1619.57,961.63,2021-08-27
+P0261,Official Go,Books,BrandD,921.61,483.19,2023-09-21
+P0262,Family Plus,Beauty,BrandC,229.65,297.27,2022-09-11
+P0263,Black Go,Sports,BrandE,290.94,434.11,2022-07-26
+P0264,Pm Plus,Apparel,BrandC,1654.34,,2021-04-15
+P0265,Heart Plus,Books,,990.99,,2023-02-11
+P0266,Look Max,Home & Kitchen,,501.41,281.91,2021-08-02
+P0267,Own Pro,Electronics,,864.89,517.3,2021-02-14
+P0268,show lite  ,Apparel,BrandD,,635.46,2021-03-27
+P0269,Institution Max,Apparel,BrandE,1101.37,794.59,2021-05-08
+P0270,Study X,Apparel,BrandB,806.22,426.51,2023-07-08
+P0271,Rest Plus,Books,BrandB,626.11,444.7,2022-09-08
+P0272,Fall Max,Electronics,BrandF,681.21,374.93,2023-12-08
+P0273,Will Lite,Apparel,BrandC,328.91,223.53,2021-04-18
+P0274,Figure X,Beauty,BrandD,611.24,358.69,2023-09-30
+P0275,Rest Lite,Home & Kitchen,BrandD,692.64,,2023-12-07
+P0276,story plus  ,Home & Kitchen,BrandF,238.34,163.35,2024-07-04
+P0277,view max  ,Electronics,BrandC,1152.69,764.68,2024-06-03
+P0278,Western Lite,Home & Kitchen,BrandD,,,2028-01-01
+P0279,sport plus  ,Beauty,BrandF,305.85,,2023-02-26
+P0280,Door X,Books,BrandE,865.14,468.29,2021-11-17
+P0281,budget plus  ,Electronics,BrandD,121.31,,2024-08-30
+P0282,Down X,Apparel,BrandE,229.09,116.36,2023-07-30
+P0283,Bag Max,Home & Kitchen,BrandC,1678.5,970.92,2022-11-12
+P0284,Certain Plus,Home & Kitchen,BrandF,458.47,246.09,2021-05-01
+P0285,Term Plus,Beauty,BrandB,237.71,,2021-05-02
+P0286,Team Lite,Electronics,BrandB,733.37,496.15,2023-05-10
+P0287,Myself X,Books,BrandD,583.46,323.58,2024-10-31
+P0288,Challenge Lite,Apparel,BrandC,821.57,493.88,2023-03-25
+P0289,alone x  ,Apparel,BrandF,,272.68,2021-12-09
+P0290,Yeah Plus,Electronics,BrandD,1816.98,970.83,2021-08-20
+P0291,College Lite,Beauty,,635.2,336.61,2022-03-03
+P0292,Control Lite,Books,BrandB,427.46,297.44,2024-06-04
+P0293,Born Lite,Home & Kitchen,BrandB,441.0,258.24,2021-07-27
+P0294,day lite  ,Home & Kitchen,BrandB,1093.11,810.4,2023-02-27
+P0295,Behavior Max,Sports,BrandD,1174.47,786.47,2021-10-22
+P0296,positive plus  ,Beauty,BrandF,1297.72,871.36,2021-02-25
+P0297,People X,Books,BrandC,505.77,308.74,2021-07-22
+P0298,Push Pro,Apparel,BrandF,433.22,243.02,2021-07-05
+P0299,Life Lite,Sports,BrandE,1202.08,605.0,2022-05-08
+P0300,Data Plus,Home & Kitchen,BrandF,201.1,110.43,2021-03-27
+P0301,Threat Pro,Home & Kitchen,BrandB,,692.08,2024-08-19
+P0302,City Go,Electronics,BrandA,1507.62,910.65,2023-04-07
+P0303,Control Plus,Apparel,BrandC,458.99,285.45,2021-06-24
+P0304,Assume X,Sports,BrandF,1146.62,874.4,2024-03-10
+P0305,Space Plus,Beauty,BrandA,212.13,173.64,2022-05-07
+P0306,loss pro  ,Beauty,BrandB,998.78,516.71,2022-09-02
+P0307,Entire Go,Home & Kitchen,BrandA,1885.69,962.96,2024-02-21
+P0308,Election Max,Home & Kitchen,BrandA,,482.0,2021-03-28
+P0309,economic max  ,Sports,,1259.49,805.94,2021-03-06
+P0310,Must Pro,Home & Kitchen,BrandF,788.94,591.05,2024-05-09
+P0311,Than Go,Beauty,BrandB,985.2,,2023-09-11
+P0312,Century Max,Books,BrandE,846.98,925.27,2021-12-21
+P0313,Image Max,Electronics,BrandF,,838.42,2022-03-07
+P0314,Painting Go,Beauty,BrandD,862.41,678.74,2024-11-28
+P0315,Real X,Apparel,BrandF,629.04,455.13,2024-09-02
+P0316,Cup Pro,Electronics,BrandF,1176.72,900.89,2028-01-01
+P0317,Provide Lite,Electronics,,1827.73,977.41,2022-12-28
+P0318,Ask Pro,Apparel,BrandD,755.89,,2021-05-07
+P0319,Couple Lite,Electronics,BrandE,249.1,173.17,2022-05-03
+P0320,Ask Max,Sports,BrandB,435.82,356.28,2021-09-13
+P0321,Challenge X,Books,BrandE,1470.39,980.86,2023-11-07
+P0322,Hold Go,Beauty,,1063.2,669.61,2021-06-13
+P0323,future go  ,Books,BrandC,1305.9,704.98,2022-09-15
+P0324,year lite  ,Electronics,BrandB,1910.44,968.92,2024-02-11
+P0325,Small Lite,Sports,BrandF,539.28,274.7,2021-12-26
+P0326,Opportunity Max,Home & Kitchen,BrandE,1262.46,736.5,2021-08-21
+P0327,Seat Pro,Beauty,BrandC,729.64,951.44,2024-05-13
+P0328,Staff Plus,Electronics,BrandB,641.73,,2024-06-09
+P0329,Look Go,Apparel,BrandA,1522.96,980.51,2024-08-09
+P0330,Wall Go,Beauty,BrandC,141.35,106.91,2023-09-02
+P0331,Tell Lite,Books,BrandF,1156.7,808.18,2023-01-10
+P0332,Care X,Books,BrandA,896.98,,2021-11-01
+P0333,Day Plus,Beauty,BrandE,280.95,142.32,2023-03-20
+P0334,teach max  ,Books,BrandA,1014.22,516.54,2023-04-20
+P0335,Than Go,Books,,318.29,193.14,2022-06-23
+P0336,Can Max,Books,BrandA,732.09,,2023-04-02
+P0337,Money Plus,Apparel,BrandB,737.82,451.04,2024-06-02
+P0338,House Max,Books,BrandC,,974.95,2024-01-30
+P0339,Discuss Pro,Sports,BrandA,574.66,475.51,2023-11-18
+P0340,Country Go,Books,BrandD,1510.12,866.96,2023-06-23
+P0341,Start Pro,Sports,BrandB,914.82,625.81,2023-04-21
+P0342,money max  ,Beauty,BrandC,1338.2,,2024-07-08
+P0343,Great X,Electronics,BrandD,1221.81,981.24,2022-06-23
+P0344,Face Lite,Home & Kitchen,BrandF,696.67,569.69,2024-02-02
+P0345,Family Pro,Books,BrandF,1250.75,844.95,2021-04-16
+P0346,Provide Pro,Beauty,BrandA,455.29,277.48,2024-06-22
+P0347,even plus  ,Apparel,BrandF,1145.36,624.83,2024-01-19
+P0348,Tax Lite,Books,BrandB,1315.5,,2023-01-26
+P0349,add lite  ,Home & Kitchen,BrandE,1531.48,998.59,2021-09-15
+P0350,west go  ,Electronics,BrandD,938.42,686.26,2022-02-21
+P0351,form x  ,Home & Kitchen,BrandA,496.06,,2024-02-22
+P0352,Hour Max,Sports,BrandF,1029.47,837.06,2022-08-08
+P0353,Chair Go,Home & Kitchen,BrandC,909.59,701.99,2024-10-19
+P0354,Foreign X,Books,,1090.05,,2024-02-12
+P0355,Among Pro,Books,BrandE,1151.02,705.8,2022-03-20
+P0356,Democrat Go,Apparel,BrandC,749.45,485.65,2023-11-13
+P0357,send x  ,Sports,BrandD,1191.13,685.76,2023-08-12
+P0358,likely x  ,Sports,BrandA,1269.74,997.01,2023-12-03
+P0359,tough x  ,Electronics,BrandA,963.7,622.69,2022-05-09
+P0360,Kid X,Beauty,BrandD,1155.09,,2022-10-07
+P0361,All Plus,Electronics,BrandD,738.55,584.31,2022-01-31
+P0362,Short Go,Home & Kitchen,,563.46,468.94,2022-12-12
+P0363,Food Max,Beauty,BrandA,717.75,542.33,2023-05-02
+P0364,Detail Pro,Electronics,BrandF,1097.77,878.56,2021-10-28
+P0365,behind plus  ,Apparel,BrandA,257.17,208.88,2023-01-01
+P0366,Across Plus,Sports,,1397.84,805.33,2023-05-03
+P0367,Week Lite,Sports,BrandA,455.17,376.15,2023-04-04
+P0368,for max  ,Sports,BrandB,680.42,449.41,2022-03-02
+P0369,Court Lite,Home & Kitchen,BrandA,321.77,204.18,2021-04-17
+P0370,Democrat Max,Beauty,BrandC,1869.34,944.96,2022-02-13
+P0371,tax go  ,Apparel,BrandB,1140.31,605.91,2023-06-16
+P0372,Parent Plus,Sports,BrandF,,254.85,2024-12-13
+P0373,Cup Lite,Beauty,BrandF,799.61,881.78,2022-01-05
+P0374,Conference Lite,Books,BrandD,1875.58,974.45,2021-11-06
+P0375,Act Pro,Electronics,,1738.8,,2024-03-26
+P0376,List Plus,Beauty,BrandE,,640.28,2022-12-16
+P0377,Guy X,Electronics,BrandE,821.24,510.78,2022-04-08
+P0378,Idea X,Sports,BrandE,523.98,287.28,2023-03-21
+P0379,Debate Lite,Books,BrandF,1219.28,936.72,2023-05-29
+P0380,Wife Go,Apparel,BrandF,342.87,235.25,2024-01-10
+P0381,People Plus,Apparel,BrandF,198.65,145.0,2022-10-14
+P0382,Rest Pro,Home & Kitchen,BrandE,,765.39,2023-12-12
+P0383,best go  ,Home & Kitchen,BrandD,1429.49,877.3,2022-10-28
+P0384,World Plus,Home & Kitchen,BrandE,1832.01,947.81,2021-10-26
+P0385,How Pro,Electronics,BrandF,474.54,361.62,2021-10-25
+P0386,So Pro,Electronics,BrandB,678.68,546.36,2022-06-09
+P0387,Study Go,Electronics,BrandA,,799.86,2022-03-06
+P0388,Standard Plus,Books,BrandA,534.65,296.65,2021-01-19
+P0389,Top Max,Beauty,BrandD,1450.03,823.37,2021-03-18
+P0390,Improve Plus,Home & Kitchen,BrandB,,560.43,2022-12-19
+P0391,Control Go,Home & Kitchen,BrandE,548.96,397.16,2024-06-02
+P0392,Attack Lite,Beauty,BrandB,479.45,338.82,2024-08-17
+P0393,Box X,Home & Kitchen,BrandF,629.91,361.52,2023-06-10
+P0394,Start Pro,Apparel,BrandC,,674.98,2021-12-16
+P0395,Mother Max,Electronics,BrandF,1500.49,894.82,2024-09-29
+P0396,Various Max,Beauty,BrandB,1328.97,848.49,2022-08-08
+P0397,Husband Max,Sports,BrandB,,231.89,2022-02-01
+P0398,It Pro,Sports,BrandF,886.27,598.7,2021-12-02
+P0399,Example Plus,Beauty,BrandF,,548.57,2023-12-13
+P0400,System Go,Beauty,BrandA,538.54,393.64,2021-07-28
+P0401,Live Pro,Books,BrandB,358.95,180.08,2022-11-21
+P0402,High Lite,Home & Kitchen,,794.92,,2023-04-17
+P0403,Reach Max,Electronics,BrandF,1566.49,937.64,2024-05-19
+P0404,Meet X,Apparel,,561.28,358.71,2022-10-19
+P0405,store pro  ,Home & Kitchen,BrandA,,861.42,2023-09-18
+P0406,note max  ,Electronics,BrandA,844.87,495.91,2023-10-27
+P0407,Source Plus,Home & Kitchen,BrandD,1120.37,,2021-11-20
+P0408,Traditional Go,Beauty,BrandF,187.8,141.54,2022-01-30
+P0409,hold x  ,Apparel,BrandC,1600.75,925.09,2022-06-09
+P0410,Experience X,Apparel,BrandA,,,2023-06-09
+P0411,Religious X,Books,BrandD,,979.78,2022-09-22
+P0412,Talk Max,Sports,BrandB,815.64,470.6,2021-04-15
+P0413,democrat x  ,Books,BrandA,851.95,543.92,2021-08-20
+P0414,Nice Go,Sports,BrandC,702.38,531.02,2024-08-30
+P0415,Doctor X,Electronics,BrandB,593.68,382.76,2023-07-17
+P0416,Idea X,Books,,610.3,381.11,2021-07-08
+P0417,Room Max,Home & Kitchen,BrandC,519.55,604.54,2022-10-22
+P0418,Mother X,Sports,BrandC,,300.11,2022-06-25
+P0419,Production Max,Electronics,BrandF,234.25,155.5,2023-05-07
+P0420,i plus  ,Electronics,BrandB,658.79,,2022-09-23
+P0421,Spend X,Electronics,BrandE,1072.84,628.72,2022-12-29
+P0422,order max  ,Books,BrandA,487.01,243.52,2023-01-05
+P0423,Able Plus,Books,BrandC,,538.4,2024-03-21
+P0424,Service Max,Beauty,BrandA,1335.48,939.01,2023-06-01
+P0425,Growth Lite,Apparel,BrandF,684.21,502.4,2024-04-23
+P0426,Building Pro,Home & Kitchen,BrandC,1411.36,911.41,2023-08-30
+P0427,responsibility x  ,Books,BrandD,793.17,502.87,2022-11-09
+P0428,Religious Lite,Apparel,BrandB,1322.8,919.68,2022-04-05
+P0429,door pro  ,Beauty,BrandF,586.97,,2021-05-24
+P0430,Produce Max,Books,,1634.88,886.21,2023-07-28
+P0431,Floor Pro,Electronics,BrandA,1727.92,869.41,2021-01-28
+P0432,miss plus  ,Sports,BrandB,1128.76,585.22,2023-03-01
+P0433,Either Lite,Books,BrandF,474.32,290.73,2021-07-09
+P0434,Discuss Go,Apparel,BrandC,156.88,110.26,2021-05-31
+P0435,Investment Plus,Electronics,BrandB,589.46,423.7,2024-08-04
+P0436,Election Go,Books,BrandE,614.59,422.86,2024-11-21
+P0437,Drug X,Books,BrandA,938.55,999.01,2024-09-13
+P0438,Understand Max,Books,,1676.9,997.08,2022-08-23
+P0439,Near Max,Home & Kitchen,BrandE,856.35,559.17,2021-09-30
+P0440,Power Pro,Beauty,BrandE,620.55,463.26,2021-06-30
+P0441,Decade Lite,Sports,BrandE,,743.37,2023-03-10
+P0442,Total Max,Electronics,BrandB,737.69,562.86,2023-05-19
+P0443,natural pro  ,Home & Kitchen,BrandA,478.96,364.76,2022-10-11
+P0444,Security Max,Apparel,BrandE,551.23,,2023-08-23
+P0445,Security Pro,Home & Kitchen,BrandC,212.03,116.38,2023-03-08
+P0446,Article Pro,Apparel,BrandC,819.59,661.17,2023-04-04
+P0447,culture x  ,Books,BrandD,1173.68,936.65,2022-11-27
+P0448,Question Plus,Beauty,BrandC,,362.34,2021-12-07
+P0449,Knowledge Lite,Electronics,BrandA,515.75,312.03,2022-09-25
+P0450,Prepare Pro,Apparel,BrandD,418.89,520.44,2028-01-01
+P0451,Television Pro,Home & Kitchen,BrandD,895.92,737.53,2024-06-15
+P0452,A X,Home & Kitchen,BrandF,1041.12,664.65,2024-06-22
+P0453,Leader Go,Beauty,BrandD,279.83,178.51,2022-01-25
+P0454,Throughout Plus,Sports,BrandB,315.88,184.12,2021-08-10
+P0455,Wait Go,Sports,BrandB,1238.55,945.69,2022-10-29
+P0456,That X,Books,BrandA,1681.75,859.08,2022-10-07
+P0457,Million Plus,Electronics,BrandB,812.21,,2021-12-31
+P0458,East Go,Apparel,BrandF,1542.84,875.04,2022-09-30
+P0459,Training Pro,Home & Kitchen,BrandE,403.04,294.09,2022-10-04
+P0460,Former Go,Electronics,BrandC,258.3,168.55,2021-10-16
+P0461,Mind Max,Electronics,,,120.96,2024-10-11
+P0462,Try X,Electronics,BrandE,494.16,386.37,2024-09-25
+P0463,Me Lite,Books,BrandF,361.01,,2021-03-11
+P0464,College Pro,Apparel,BrandB,229.74,,2023-07-25
+P0465,girl pro  ,Apparel,BrandA,1011.3,540.98,2023-04-28
+P0466,Wrong Go,Sports,BrandA,1197.52,776.49,2024-01-11
+P0467,President Plus,Beauty,,1045.66,734.23,2022-01-08
+P0468,sell plus  ,Home & Kitchen,BrandE,1413.15,776.4,2021-10-21
+P0469,will pro  ,Apparel,BrandB,1075.98,592.14,2023-03-22
+P0470,Maintain Go,Books,BrandF,423.15,232.31,2022-02-06
+P0471,Within Pro,Apparel,BrandB,306.56,182.04,2024-04-06
+P0472,Everyone Go,Beauty,BrandB,374.2,190.07,2024-11-02
+P0473,Attorney Max,Electronics,BrandB,1431.72,843.52,2024-10-09
+P0474,Wonder Pro,Beauty,BrandF,522.17,280.97,2023-01-28
+P0475,Nation Max,Books,BrandB,764.0,504.61,2024-09-12
+P0476,Skin Lite,Electronics,BrandD,636.32,506.45,2023-04-23
+P0477,set max  ,Apparel,BrandA,,509.82,2023-06-27
+P0478,Just Plus,Home & Kitchen,BrandB,203.73,134.66,2021-11-27
+P0479,conference max  ,Electronics,BrandD,902.64,580.08,2024-11-17
+P0480,Red Plus,Beauty,BrandD,1290.8,937.0,2021-05-01
+P0481,Fly Max,Sports,BrandB,792.36,425.33,2021-05-19
+P0482,That Plus,Beauty,BrandD,1349.84,985.62,2021-10-04
+P0483,With X,Electronics,BrandC,546.98,610.94,2023-09-23
+P0484,Machine X,Apparel,,840.28,590.53,2024-05-14
+P0485,Thought Go,Books,BrandC,181.3,125.58,2021-06-18
+P0486,Area Go,Electronics,BrandC,908.18,465.65,2021-12-12
+P0487,Administration Max,Apparel,BrandB,,765.81,2022-09-01
+P0488,Could Lite,Apparel,BrandB,853.5,556.78,2024-10-03
+P0489,Mr Lite,Apparel,BrandC,,765.38,2021-12-24
+P0490,Question Lite,Sports,BrandF,395.02,587.86,2023-02-28
+P0491,Full Max,Electronics,BrandE,860.45,441.62,2024-10-04
+P0492,Arm Plus,Beauty,BrandB,856.07,710.06,2023-06-24
+P0493,Student X,Electronics,BrandD,583.0,356.43,2024-08-09
+P0494,finish max  ,Beauty,BrandC,186.84,131.61,2021-04-18
+P0495,Suffer Go,Sports,BrandD,238.78,123.39,2021-10-21
+P0496,Each Plus,Apparel,BrandF,715.27,454.61,2022-01-13
+P0497,Reduce Pro,Beauty,BrandE,604.9,343.26,2024-04-12
+P0498,Blue Lite,Beauty,BrandC,851.25,520.81,2022-06-10
+P0499,Move Plus,Sports,BrandD,284.78,169.58,2024-09-07
+P0500,Serious Max,Books,BrandA,1198.35,715.43,2024-09-21
+P0501,Goal Go,Sports,BrandA,480.58,360.52,2021-09-08
+P0502,Start Pro,Electronics,BrandE,202.62,300.01,2021-01-22
+P0503,Explain Pro,Home & Kitchen,BrandB,1432.64,723.42,2023-03-15
+P0504,Few Max,Home & Kitchen,BrandE,925.07,592.82,2023-02-08
+P0505,Chair X,Beauty,BrandA,674.35,487.04,2021-04-10
+P0506,May Go,Beauty,,233.96,369.94,2024-04-03
+P0507,education lite  ,Beauty,BrandB,920.2,671.0,2022-10-27
+P0508,Attorney Plus,Electronics,BrandB,339.48,445.49,2021-12-19
+P0509,worry plus  ,Sports,BrandB,599.84,374.42,2024-04-13
+P0510,would go  ,Beauty,BrandA,1310.92,,2022-09-01
+P0511,Act X,Apparel,BrandC,1404.23,753.07,2022-11-14
+P0512,Will Pro,Apparel,,1081.32,845.61,2024-12-01
+P0513,Century X,Electronics,BrandC,528.13,433.69,2021-06-09
+P0514,Traditional Plus,Apparel,BrandA,,102.64,2024-04-21
+P0515,Quickly Pro,Electronics,BrandD,1798.75,942.65,2024-09-07
+P0516,decade plus  ,Apparel,BrandE,458.48,489.69,2024-03-05
+P0517,Admit Lite,Apparel,BrandE,503.43,538.41,2024-01-18
+P0518,Lot Plus,Sports,BrandB,1430.78,911.98,2023-07-26
+P0519,Official Max,Sports,BrandB,1461.47,998.58,2022-07-14
+P0520,Question Pro,Electronics,BrandB,266.57,180.56,2021-06-28
+P0521,Positive X,Home & Kitchen,BrandB,1218.17,621.19,2023-06-16
+P0522,Assume Lite,Sports,BrandE,620.46,340.02,2022-03-01
+P0523,Home Go,Sports,BrandC,1541.03,884.52,2021-03-09
+P0524,Share X,Books,BrandF,1588.97,873.12,2022-08-24
+P0525,Standard Pro,Home & Kitchen,BrandF,1047.45,784.67,2021-04-13
+P0526,price pro  ,Sports,BrandB,305.83,225.42,2023-01-03
+P0527,minute lite  ,Beauty,BrandA,690.39,368.47,2023-05-21
+P0528,wear x  ,Home & Kitchen,BrandE,261.16,177.62,2028-01-01
+P0529,Present Plus,Sports,BrandE,,171.87,2021-07-10
+P0530,rise plus  ,Electronics,BrandA,,828.19,2024-06-14
+P0531,change go  ,Books,BrandE,1228.57,980.67,2023-01-20
+P0532,Appear Max,Electronics,BrandC,1457.47,942.82,2022-02-10
+P0533,Out Go,Beauty,BrandC,503.19,341.25,2022-09-11
+P0534,Hot Max,Electronics,BrandE,332.29,184.17,2023-03-18
+P0535,Between Pro,Electronics,BrandE,971.9,537.58,2022-03-17
+P0536,professor x  ,Beauty,BrandE,1109.97,,2021-10-28
+P0537,Moment Pro,Sports,BrandE,1489.24,956.07,2021-04-19
+P0538,light pro  ,Beauty,BrandD,,194.56,2023-03-25
+P0539,Recently Plus,Sports,BrandD,1102.72,843.15,2022-07-26
+P0540,Production Plus,Apparel,BrandE,,702.45,2024-07-24
+P0541,See Plus,Apparel,BrandE,546.48,288.76,2022-11-21
+P0542,detail pro  ,Apparel,BrandF,394.13,325.26,2023-02-22
+P0543,Key Plus,Electronics,BrandC,932.43,,2024-07-21
+P0544,Hit Max,Home & Kitchen,BrandE,1199.26,735.37,2023-07-26
+P0545,Fight Lite,Sports,,176.2,117.11,2022-01-05
+P0546,Pressure Plus,Home & Kitchen,BrandC,105.67,138.31,2024-08-29
+P0547,Myself X,Beauty,BrandB,973.46,593.47,2024-12-02
+P0548,I Pro,Home & Kitchen,BrandB,331.89,193.05,2024-04-03
+P0549,Series Go,Sports,,1388.76,836.88,2024-03-17
+P0550,Mind Pro,Books,BrandE,1761.66,,2024-01-01
+P0551,Experience Max,Beauty,BrandB,579.41,344.75,2021-07-14
+P0552,Only X,Apparel,BrandB,183.37,109.65,2024-05-19
+P0553,Season X,Beauty,BrandC,207.24,152.45,2023-09-29
+P0554,Ten X,Books,BrandE,742.69,450.83,2023-01-16
+P0555,Worker Lite,Beauty,BrandA,736.48,485.82,2021-05-30
+P0556,Character X,Beauty,,,538.75,2024-08-16
+P0557,Significant X,Beauty,BrandE,230.82,162.33,2023-03-27
+P0558,Dream Plus,Apparel,BrandA,1405.07,,2022-04-20
+P0559,Head Lite,Books,BrandB,1178.11,601.59,2021-12-24
+P0560,Guess Max,Books,BrandE,1421.23,,2022-07-14
+P0561,well x  ,Apparel,BrandD,799.7,432.07,2021-09-11
+P0562,Drug Plus,Beauty,BrandD,729.31,804.38,2023-09-24
+P0563,beat plus  ,Books,BrandA,1215.4,754.4,2021-11-26
+P0564,Help Max,Apparel,BrandA,,527.92,2021-06-10
+P0565,Happy Lite,Electronics,BrandB,514.37,,2023-03-29
+P0566,Others Lite,Books,BrandC,763.49,,2024-10-15
+P0567,Performance X,Books,BrandA,959.53,612.06,2023-11-30
+P0568,There Go,Books,BrandF,,139.55,2021-05-19
+P0569,seat pro  ,Apparel,BrandD,766.62,389.5,2023-12-02
+P0570,Improve Lite,Apparel,BrandD,1254.65,732.41,2023-05-13
+P0571,Page Max,Apparel,BrandA,1158.35,785.3,2022-11-21
+P0572,Daughter Plus,Sports,BrandD,750.22,440.07,2023-06-16
+P0573,Trade Max,Apparel,BrandE,933.62,652.67,2023-09-26
+P0574,Billion Pro,Beauty,BrandE,,955.9,2024-02-07
+P0575,Air Lite,Books,BrandD,1129.73,704.22,2024-06-15
+P0576,Artist Go,Sports,BrandD,522.15,273.54,2024-03-05
+P0577,Pull X,Beauty,BrandD,566.19,379.46,2023-04-02
+P0578,Field X,Electronics,,244.99,198.71,2023-03-05
+P0579,Democratic Plus,Electronics,BrandB,812.84,437.18,2021-07-19
+P0580,Only Max,Sports,BrandF,1448.41,867.45,2021-06-23
+P0581,Throughout Lite,Home & Kitchen,BrandE,504.83,273.75,2023-03-19
+P0582,both max  ,Apparel,BrandC,,778.25,2023-03-11
+P0583,Dog Pro,Beauty,BrandB,1021.11,716.85,2028-01-01
+P0584,read lite  ,Home & Kitchen,BrandA,824.34,516.31,2024-11-12
+P0585,Environment Lite,Electronics,,444.53,238.67,2021-12-20
+P0586,Wall X,Books,BrandB,527.03,387.07,2021-05-18
+P0587,Nature X,Home & Kitchen,BrandB,656.06,521.2,2021-08-04
+P0588,include x  ,Electronics,BrandA,1211.88,632.57,2024-11-04
+P0589,Like Lite,Sports,BrandE,1180.59,606.18,2022-10-31
+P0590,Road Max,Sports,BrandA,319.47,229.19,2021-11-15
+P0591,Nothing Go,Home & Kitchen,BrandC,1834.51,953.43,2023-10-29
+P0592,Together Max,Sports,BrandC,590.16,379.3,2021-11-19
+P0593,Sing Go,Beauty,BrandC,515.72,398.24,2023-12-23
+P0594,Mean Plus,Home & Kitchen,BrandD,,149.75,2023-03-31
+P0595,Here Max,Electronics,BrandE,,,2023-11-29
+P0596,Ability Go,Apparel,BrandA,522.59,,2022-10-10
+P0597,Relationship X,Home & Kitchen,BrandC,1023.83,656.32,2023-11-19
+P0598,Find X,Electronics,BrandE,541.8,408.58,2021-07-16
+P0599,Enough Go,Apparel,BrandC,,239.13,2022-09-01
+P0600,Light Pro,Electronics,BrandF,1396.14,808.78,2021-03-07
+P0601,Goal Max,Beauty,BrandD,833.81,948.54,2024-12-23
+P0602,Story Go,Sports,BrandC,1252.64,797.39,2024-09-19
+P0603,Trip Lite,Apparel,BrandB,1307.45,789.65,2022-05-11
+P0604,Loss X,Apparel,BrandE,,466.18,2023-04-02
+P0605,After Go,Sports,BrandB,472.88,329.54,2023-08-31
+P0606,Clear Plus,Sports,BrandE,282.26,386.3,2023-10-17
+P0607,Firm Plus,Books,BrandA,,294.88,2023-12-30
+P0608,At Max,Apparel,BrandA,160.0,128.74,2021-08-17
+P0609,Card Max,Beauty,BrandF,1447.03,850.69,2022-04-08
+P0610,idea lite  ,Apparel,BrandC,1191.16,602.79,2021-09-17
+P0611,Majority Plus,Home & Kitchen,BrandC,1254.44,742.49,2022-11-13
+P0612,Event Plus,Home & Kitchen,BrandE,1327.46,708.12,2021-03-31
+P0613,Dream X,Apparel,BrandD,355.02,267.3,2021-09-24
+P0614,Into Go,Beauty,BrandE,1848.2,935.8,2022-04-20
+P0615,Just Plus,Books,BrandD,723.0,518.53,2022-09-19
+P0616,Choose Plus,Sports,BrandF,693.76,421.87,2021-09-05
+P0617,Price Max,Electronics,BrandF,206.95,152.79,2021-06-23
+P0618,operation lite  ,Beauty,BrandA,,253.12,2023-02-17
+P0619,Player Pro,Home & Kitchen,BrandF,,578.39,2022-01-05
+P0620,Mouth Go,Beauty,,319.03,,2021-11-27
+P0621,Need X,Home & Kitchen,BrandB,441.97,226.53,2022-11-09
+P0622,Himself Go,Electronics,BrandE,1162.66,,2023-06-25
+P0623,Do Lite,Home & Kitchen,BrandD,1054.37,608.64,2023-11-10
+P0624,Cold Lite,Apparel,BrandF,178.18,212.68,2024-05-08
+P0625,Matter Go,Electronics,BrandD,1491.13,903.99,2022-03-08
+P0626,Grow Go,Beauty,BrandB,,325.25,2021-06-14
+P0627,First Go,Apparel,BrandD,545.25,426.95,2022-01-21
+P0628,Note Go,Beauty,BrandE,673.79,422.61,2021-04-25
+P0629,Operation Pro,Sports,BrandB,604.05,319.87,2021-02-23
+P0630,Include Plus,Home & Kitchen,BrandC,1443.84,905.66,2024-05-11
+P0631,Total Plus,Books,BrandF,1285.73,693.84,2022-05-14
+P0632,Campaign Lite,Home & Kitchen,BrandB,719.27,386.98,2021-12-31
+P0633,project lite  ,Electronics,BrandC,764.11,402.34,2024-07-27
+P0634,And Go,Sports,BrandA,,661.22,2021-09-17
+P0635,Control Pro,Electronics,BrandB,361.76,230.73,2023-02-19
+P0636,Make Lite,Home & Kitchen,BrandB,423.45,,2024-05-22
+P0637,Federal Plus,Home & Kitchen,BrandF,1758.86,917.35,2023-09-28
+P0638,First Lite,Beauty,BrandE,1248.84,812.84,2021-02-19
+P0639,Your Max,Electronics,,1058.66,751.81,2024-01-24
+P0640,Provide Go,Electronics,BrandD,1077.45,687.28,2022-07-20
+P0641,Their Max,Sports,BrandA,1246.68,852.19,2024-11-14
+P0642,Poor X,Electronics,BrandB,1478.46,745.56,2021-03-31
+P0643,Quite Pro,Books,,1236.29,848.68,2021-02-11
+P0644,Discuss Max,Electronics,BrandC,,,2023-06-04
+P0645,Expert Go,Home & Kitchen,BrandE,232.28,126.99,2021-01-30
+P0646,Price X,Beauty,BrandB,1240.46,620.91,2023-07-11
+P0647,Raise Pro,Apparel,BrandC,904.15,606.52,2021-01-12
+P0648,Follow Lite,Electronics,BrandE,545.16,607.18,2023-09-01
+P0649,Number Max,Sports,BrandA,1086.24,824.08,2021-05-01
+P0650,sister max  ,Books,BrandC,1274.59,989.45,2021-05-19
+P0651,Star Go,Electronics,BrandC,204.95,170.15,2023-09-22
+P0652,Time X,Sports,BrandC,466.96,,2022-10-29
+P0653,Field X,Home & Kitchen,BrandB,603.88,957.58,2021-05-24
+P0654,indeed x  ,Electronics,BrandF,1195.05,791.02,2024-12-24
+P0655,boy go  ,Books,BrandA,548.93,,2021-05-12
+P0656,compare x  ,Beauty,BrandE,1878.62,996.68,2021-08-20
+P0657,Money Plus,Home & Kitchen,BrandE,1260.14,821.84,2023-03-22
+P0658,white lite  ,Books,,532.08,368.13,2024-03-24
+P0659,Then Plus,Apparel,BrandD,272.26,164.0,2023-08-29
+P0660,Film X,Beauty,BrandB,879.26,593.48,2024-01-15
+P0661,Of Go,Sports,BrandB,1127.54,593.67,2021-03-17
+P0662,Two Plus,Beauty,BrandF,524.34,274.42,2022-05-20
+P0663,Need X,Apparel,BrandD,208.63,121.57,2024-06-30
+P0664,Hotel X,Apparel,BrandC,1165.0,589.16,2024-02-10
+P0665,Candidate Pro,Sports,BrandF,951.46,496.53,2022-07-21
+P0666,Measure Plus,Sports,BrandA,1560.74,956.75,2023-11-16
+P0667,Body Plus,Home & Kitchen,BrandE,256.87,,2023-06-16
+P0668,Benefit Max,Sports,BrandA,1316.51,954.15,2024-07-25
+P0669,Job Lite,Apparel,BrandD,1580.87,847.94,2024-09-29
+P0670,Down Max,Beauty,BrandF,1302.43,687.37,2024-08-28
+P0671,Yes Plus,Beauty,BrandA,1355.36,769.36,2024-07-30
+P0672,outside plus  ,Books,BrandE,1150.43,643.12,2023-04-05
+P0673,Raise Go,Home & Kitchen,BrandC,630.88,334.66,2023-10-31
+P0674,Law Lite,Electronics,,712.51,381.05,2023-06-08
+P0675,Drive X,Apparel,BrandD,1068.89,821.02,2024-04-24
+P0676,Return Go,Apparel,BrandA,579.64,399.67,2024-12-16
+P0677,Pass Lite,Home & Kitchen,BrandA,205.99,130.9,2022-08-01
+P0678,Represent Max,Sports,BrandF,810.75,557.36,2024-10-16
+P0679,Next Go,Beauty,BrandE,449.67,305.79,2024-06-16
+P0680,Practice Pro,Sports,BrandA,1068.26,736.82,2024-09-04
+P0681,Tough Go,Sports,BrandE,950.71,616.26,2023-02-15
+P0682,Itself Plus,Books,BrandA,1080.31,705.35,2022-02-06
+P0683,Method Pro,Home & Kitchen,BrandF,398.2,228.07,2022-03-18
+P0684,Fact Plus,Apparel,BrandC,472.04,,2022-11-14
+P0685,Operation Lite,Apparel,BrandB,773.18,578.73,2021-11-26
+P0686,Past Go,Electronics,BrandE,1047.12,,2022-05-18
+P0687,Wait X,Books,BrandC,1314.37,791.02,2021-08-03
+P0688,Citizen X,Home & Kitchen,BrandD,1126.37,923.61,2021-12-13
+P0689,Table X,Books,BrandA,,499.35,2023-04-10
+P0690,Truth X,Books,BrandA,137.24,111.0,2022-06-05
+P0691,Traditional Max,Apparel,BrandA,251.12,175.32,2022-08-29
+P0692,Wait Lite,Books,BrandC,352.67,231.23,2022-08-23
+P0693,Answer Lite,Beauty,BrandE,1722.19,876.72,2024-08-08
+P0694,Gas Lite,Electronics,BrandA,808.8,576.19,2021-06-25
+P0695,Spring Lite,Beauty,BrandD,1679.41,957.32,2023-01-20
+P0696,enter plus  ,Electronics,BrandE,1287.15,681.67,2023-11-05
+P0697,Only Max,Beauty,BrandE,319.6,212.28,2023-09-11
+P0698,Really Lite,Home & Kitchen,,833.19,513.24,2024-11-19
+P0699,Office Go,Beauty,,1663.59,998.65,2024-09-12
+P0700,Minute Plus,Books,BrandB,,638.44,2023-12-17
+P0701,Industry Max,Apparel,BrandC,639.94,354.03,2022-04-01
+P0702,Raise Go,Beauty,BrandE,417.15,224.52,2021-10-07
+P0703,Media Pro,Beauty,BrandB,1289.0,741.84,2023-01-03
+P0704,List Pro,Home & Kitchen,BrandE,266.59,,2021-10-11
+P0705,Toward Max,Books,BrandA,487.3,347.94,2021-04-26
+P0706,Far X,Apparel,BrandC,1119.98,654.36,2021-06-15
+P0707,Interest Plus,Home & Kitchen,BrandE,1348.65,858.39,2024-11-14
+P0708,Or Go,Books,BrandD,,697.12,2022-08-27
+P0709,Road X,Sports,,,124.5,2023-12-22
+P0710,Out Pro,Books,BrandE,1419.54,991.5,2022-08-13
+P0711,operation max  ,Books,BrandD,874.25,663.66,2024-02-17
+P0712,Letter X,Electronics,BrandA,487.15,268.31,2022-01-18
+P0713,look x  ,Electronics,BrandE,1759.29,901.46,2022-05-21
+P0714,Yard X,Books,BrandB,823.82,,2023-07-07
+P0715,Meet Go,Beauty,BrandF,78.75,106.44,2023-07-14
+P0716,Can Max,Home & Kitchen,,1598.33,,2023-11-11
+P0717,Early Pro,Sports,BrandF,1099.77,568.51,2022-08-23
+P0718,Money Go,Apparel,BrandF,1269.59,,2023-01-28
+P0719,Move Plus,Home & Kitchen,,433.55,321.43,2021-06-14
+P0720,Game Plus,Electronics,BrandF,137.26,109.07,2021-08-27
+P0721,National Pro,Sports,BrandC,936.78,697.96,2024-01-15
+P0722,Set Plus,Books,BrandE,845.07,527.06,2022-05-07
+P0723,Suddenly Pro,Beauty,BrandC,905.96,465.97,2022-08-06
+P0724,Control Plus,Beauty,BrandA,1644.1,883.64,2021-06-12
+P0725,see lite  ,Beauty,BrandB,699.04,852.82,2023-09-18
+P0726,His Plus,Sports,BrandF,1216.63,704.02,2023-09-13
+P0727,Doctor Lite,Apparel,BrandA,911.79,646.24,2023-01-27
+P0728,Color Plus,Beauty,BrandD,293.71,237.23,2024-07-23
+P0729,Professor Lite,Beauty,BrandF,963.29,600.01,2021-06-30
+P0730,About Pro,Sports,BrandE,968.36,790.19,2023-11-30
+P0731,Show Go,Apparel,BrandF,478.72,252.39,2023-01-13
+P0732,they go  ,Home & Kitchen,BrandC,1422.34,756.53,2024-08-21
+P0733,Hair Lite,Sports,BrandC,1893.12,985.77,2024-07-18
+P0734,Successful Plus,Home & Kitchen,BrandA,244.89,188.15,2024-09-06
+P0735,Watch X,Home & Kitchen,,150.01,104.72,2024-01-11
+P0736,Per X,Books,BrandF,1811.95,980.7,2023-01-07
+P0737,Activity Plus,Beauty,,1133.63,644.11,2021-07-11
+P0738,Oil Pro,Home & Kitchen,BrandF,653.36,448.46,2024-10-10
+P0739,Base Lite,Books,BrandA,1713.88,,2021-05-26
+P0740,Themselves Pro,Electronics,BrandF,258.63,,2023-08-31
+P0741,Reflect X,Books,BrandD,1191.24,701.76,2023-06-03
+P0742,The Plus,Beauty,BrandB,955.77,524.22,2021-07-11
+P0743,toward lite  ,Beauty,BrandD,459.31,238.23,2022-03-11
+P0744,Citizen Lite,Beauty,BrandD,190.44,122.55,2021-12-13
+P0745,Phone Pro,Apparel,BrandF,893.17,537.63,2021-10-01
+P0746,Individual Max,Sports,BrandF,1489.27,869.2,2021-11-14
+P0747,Student Pro,Apparel,BrandF,269.55,143.82,2023-07-14
+P0748,Black Lite,Sports,BrandA,,217.05,2022-03-04
+P0749,effect go  ,Home & Kitchen,BrandD,985.64,641.29,2022-07-23
+P0750,Notice Go,Beauty,BrandB,963.89,683.21,2023-07-18
+P0751,Former Go,Beauty,,490.41,401.95,2023-11-15
+P0752,Into Max,Electronics,BrandF,327.33,200.29,2024-10-31
+P0753,A Max,Beauty,BrandA,741.39,420.11,2021-07-19
+P0754,Animal Go,Apparel,BrandF,563.4,287.37,2021-10-15
+P0755,Keep Plus,Beauty,BrandA,517.35,273.99,2023-06-15
+P0756,Forget Plus,Books,,1620.26,997.65,2021-02-26
+P0757,Authority Max,Electronics,BrandE,1599.08,930.67,2023-10-23
+P0758,apply pro  ,Books,BrandE,1899.56,987.12,2022-05-06
+P0759,Morning Plus,Electronics,BrandD,643.83,379.74,2024-05-17
+P0760,Explain Max,Beauty,BrandA,1401.04,835.13,2023-09-18
+P0761,Make Plus,Sports,BrandC,333.32,174.77,2023-11-06
+P0762,General Lite,Electronics,BrandA,245.27,169.88,2021-08-03
+P0763,Three Lite,Books,BrandA,1667.37,878.22,2022-03-04
+P0764,Whose Plus,Beauty,BrandA,283.89,203.97,2022-09-20
+P0765,Letter X,Apparel,BrandB,668.6,493.99,2024-05-14
+P0766,Start Max,Apparel,BrandF,806.28,535.27,2024-11-25
+P0767,Help Plus,Electronics,BrandB,844.15,508.91,2024-08-09
+P0768,she plus  ,Apparel,BrandE,1226.75,,2024-06-08
+P0769,Hot Max,Apparel,BrandB,440.05,233.03,2021-08-25
+P0770,Will X,Sports,BrandB,1291.54,962.3,2021-09-24
+P0771,Full Go,Books,BrandA,516.76,622.03,2023-05-11
+P0772,Within Max,Sports,BrandA,486.08,335.79,2022-01-04
+P0773,administration pro  ,Beauty,BrandB,1508.01,993.03,2022-07-15
+P0774,Avoid Plus,Books,BrandA,864.02,677.63,2022-12-13
+P0775,All Lite,Sports,BrandF,766.03,569.05,2024-02-15
+P0776,Marriage Max,Beauty,BrandD,533.68,392.34,2023-03-04
+P0777,Hundred Max,Sports,BrandB,1175.62,683.53,2024-09-15
+P0778,suddenly plus  ,Sports,,667.66,,2024-04-08
+P0779,Always Plus,Sports,BrandF,1851.51,949.08,2022-07-24
+P0780,Save Go,Beauty,BrandC,1226.89,892.01,2024-03-27
+P0781,Including Max,Sports,BrandE,1141.09,751.93,2024-05-06
+P0782,Everything X,Beauty,BrandC,216.33,143.43,2023-04-13
+P0783,Both Go,Beauty,BrandF,1149.4,713.28,2023-10-28
+P0784,Black Plus,Beauty,BrandE,567.02,340.38,2023-04-07
+P0785,Choose Go,Home & Kitchen,BrandE,1122.0,906.62,2021-05-25
+P0786,smile x  ,Apparel,BrandB,1154.12,821.25,2021-07-19
+P0787,avoid pro  ,Electronics,BrandC,,334.82,2024-11-02
+P0788,Name X,Sports,BrandA,1508.73,912.87,2021-04-22
+P0789,Nation Go,Sports,BrandE,1168.84,894.18,2022-01-27
+P0790,View X,Apparel,BrandE,724.16,501.15,2021-11-12
+P0791,Worry Lite,Books,BrandD,250.24,152.79,2022-04-28
+P0792,Material X,Apparel,BrandF,663.43,475.94,2021-12-14
+P0793,Idea Pro,Books,BrandB,879.72,,2023-09-24
+P0794,Until Pro,Beauty,BrandA,1518.78,769.67,2024-05-06
+P0795,Commercial Lite,Electronics,,1371.25,923.85,2023-12-21
+P0796,Himself Max,Beauty,BrandB,1473.18,810.73,2022-02-15
+P0797,Purpose Lite,Home & Kitchen,BrandF,,370.69,2021-04-23
+P0798,Security Max,Apparel,BrandA,1461.48,,2022-10-25
+P0799,Someone Go,Electronics,BrandF,1392.08,858.16,2024-09-21
+P0800,time plus  ,Apparel,BrandE,582.32,453.89,2024-06-22
+P0801,Yard X,Electronics,BrandC,1056.71,787.44,2024-03-11
+P0802,Heavy Lite,Electronics,BrandC,264.91,155.12,2024-03-16
+P0803,Consider Max,Apparel,BrandE,239.03,193.0,2021-02-11
+P0804,However Max,Books,BrandC,1652.4,897.12,2023-11-06
+P0805,someone lite  ,Sports,BrandC,,524.28,2023-07-28
+P0806,Answer Lite,Beauty,BrandA,514.3,337.19,2023-08-05
+P0807,Who Go,Apparel,BrandA,485.85,364.71,2021-03-14
+P0808,different lite  ,Apparel,,364.27,186.1,2023-12-28
+P0809,Decade Lite,Apparel,BrandD,1227.34,792.52,2022-06-28
+P0810,Play X,Apparel,BrandD,760.12,395.15,2023-02-16
+P0811,Way Go,Electronics,BrandC,462.72,,2024-09-05
+P0812,Authority Max,Beauty,BrandA,148.88,110.93,2022-11-07
+P0813,Late Lite,Books,BrandF,,696.12,2024-08-31
+P0814,Such Go,Books,BrandC,,,2023-06-19
+P0815,Forward Pro,Beauty,BrandB,1312.34,691.42,2021-06-28
+P0816,Option Go,Sports,BrandE,1060.01,721.77,2022-11-11
+P0817,Remember X,Books,BrandF,,916.15,2024-12-06
+P0818,Realize X,Home & Kitchen,BrandF,217.97,135.59,2022-05-26
+P0819,Institution X,Electronics,BrandF,457.45,351.88,2021-02-04
+P0820,Even Go,Home & Kitchen,BrandE,935.6,582.46,2021-01-27
+P0821,Memory Max,Sports,,560.19,430.96,2024-05-18
+P0822,Trouble Lite,Apparel,BrandF,822.17,507.61,2023-11-18
+P0823,fear lite  ,Sports,BrandF,581.31,332.3,2021-05-18
+P0824,Population Lite,Books,BrandF,1215.41,883.46,2022-08-02
+P0825,area x  ,Books,BrandF,1299.43,881.93,2023-04-19
+P0826,Direction Max,Books,BrandF,1690.71,997.21,2021-08-26
+P0827,brother max  ,Sports,BrandC,,474.67,2023-05-26
+P0828,Worker Plus,Sports,BrandD,523.1,378.31,2023-11-11
+P0829,Air Go,Home & Kitchen,BrandD,175.25,137.5,2021-03-01
+P0830,West Max,Sports,BrandC,686.09,345.77,2024-03-13
+P0831,Radio X,Apparel,BrandE,1699.66,948.08,2024-02-09
+P0832,Meeting Max,Apparel,BrandC,282.8,,2024-04-05
+P0833,himself max  ,Sports,BrandD,482.77,347.32,2022-07-09
+P0834,Respond Lite,Home & Kitchen,BrandF,918.12,696.04,2024-05-27
+P0835,Always Max,Home & Kitchen,BrandA,576.57,318.51,2021-11-15
+P0836,Range X,Sports,BrandB,570.44,315.0,2023-01-10
+P0837,tonight go  ,Books,BrandB,217.7,109.54,2022-09-09
+P0838,Air Pro,Apparel,,673.43,493.25,2021-12-09
+P0839,Ability Lite,Apparel,BrandF,1026.18,,2022-03-31
+P0840,Keep Lite,Apparel,BrandD,512.38,302.68,2022-02-10
+P0841,Since Plus,Apparel,BrandB,,400.03,2023-06-08
+P0842,Buy Lite,Electronics,BrandF,1041.56,795.07,2022-08-08
+P0843,Measure Plus,Beauty,BrandB,1329.04,947.04,2024-10-15
+P0844,Everyone Go,Books,BrandC,470.78,358.61,2021-11-20
+P0845,We Go,Home & Kitchen,BrandC,528.59,289.26,2021-09-06
+P0846,Tax Pro,Books,BrandF,919.96,574.12,2021-05-15
+P0847,Wrong Go,Books,,1263.22,818.36,2028-01-01
+P0848,Nice Plus,Electronics,BrandD,892.81,578.27,2022-05-31
+P0849,Tell Lite,Home & Kitchen,BrandD,837.63,504.23,2022-12-08
+P0850,Money Go,Home & Kitchen,BrandC,610.96,835.76,2023-09-17
+P0851,Do Go,Electronics,BrandD,1615.3,866.07,2022-10-31
+P0852,Happy Lite,Sports,BrandF,220.63,149.82,2022-04-17
+P0853,Mind Lite,Electronics,BrandA,519.23,296.54,2022-02-17
+P0854,Project Max,Apparel,,204.16,253.16,2021-12-03
+P0855,Tough Go,Beauty,BrandA,914.69,738.32,2024-08-25
+P0856,Media X,Beauty,BrandD,833.3,487.36,2022-04-04
+P0857,Daughter Lite,Books,BrandC,266.13,141.78,2024-11-08
+P0858,Process Go,Beauty,BrandC,1000.66,525.95,2024-07-08
+P0859,Together Max,Apparel,BrandE,1695.15,872.0,2024-09-08
+P0860,That Plus,Books,BrandC,187.71,219.15,2021-01-15
+P0861,Benefit Lite,Apparel,BrandA,200.2,115.27,2021-02-13
+P0862,Message Max,Home & Kitchen,BrandB,1189.91,817.8,2021-12-12
+P0863,Still Max,Apparel,,180.53,115.37,2022-10-20
+P0864,Food X,Apparel,BrandA,803.64,570.67,2022-08-13
+P0865,Very Lite,Home & Kitchen,BrandE,1406.66,,2024-04-20
+P0866,Allow Go,Sports,BrandC,403.33,657.03,2028-01-01
+P0867,success lite  ,Electronics,BrandA,532.6,379.38,2024-01-01
+P0868,Serve Plus,Electronics,BrandD,1128.98,712.87,2024-04-02
+P0869,Those X,Books,BrandD,179.86,105.7,2023-03-23
+P0870,Process Plus,Beauty,BrandA,585.92,340.87,2023-02-14
+P0871,world plus  ,Electronics,BrandA,461.44,558.08,2024-07-15
+P0872,In Go,Apparel,BrandB,1121.37,729.65,2024-11-02
+P0873,expect lite  ,Books,BrandF,307.61,195.03,2023-12-13
+P0874,Season Pro,Books,BrandB,449.46,313.84,2024-09-04
+P0875,Weight Go,Sports,BrandB,1354.24,831.28,2022-08-16
+P0876,reflect go  ,Books,BrandA,813.01,537.15,2023-11-28
+P0877,Someone Pro,Electronics,BrandA,962.3,683.79,2023-07-09
+P0878,Thing Max,Home & Kitchen,BrandD,441.15,227.17,2023-12-17
+P0879,Social Go,Apparel,BrandB,1071.65,,2024-01-15
+P0880,Huge Plus,Books,BrandD,786.92,449.2,2024-10-10
+P0881,Look X,Apparel,BrandF,933.04,564.24,2022-05-12
+P0882,Miss Lite,Books,BrandB,619.15,324.56,2023-05-04
+P0883,support plus  ,Electronics,BrandC,352.76,,2023-09-17
+P0884,Mother Plus,Sports,BrandF,1361.28,991.15,2024-12-14
+P0885,yourself max  ,Home & Kitchen,BrandF,1230.98,699.06,2022-06-27
+P0886,Admit Pro,Books,BrandB,447.03,,2021-09-07
+P0887,Put Lite,Apparel,BrandD,,798.05,2024-11-12
+P0888,everything x  ,Home & Kitchen,BrandF,1058.01,627.39,2024-10-10
+P0889,director lite  ,Beauty,BrandF,311.37,196.31,2023-10-28
+P0890,Director Go,Beauty,BrandE,663.59,393.19,2022-10-29
+P0891,Likely Max,Books,BrandA,1247.46,753.11,2024-01-27
+P0892,North Lite,Apparel,BrandC,1711.02,933.13,2023-10-14
+P0893,Choose X,Apparel,BrandB,667.24,356.79,2022-12-26
+P0894,Per Lite,Books,BrandD,1323.33,887.11,2024-06-01
+P0895,Throughout Max,Books,BrandA,290.32,150.87,2023-08-13
+P0896,Teach X,Books,BrandD,690.25,527.87,2022-05-27
+P0897,especially x  ,Home & Kitchen,BrandE,460.97,234.22,2024-11-16
+P0898,Minute Go,Sports,BrandA,1188.26,789.54,2022-07-31
+P0899,Important Lite,Books,,910.52,515.5,2023-03-26
+P0900,Rise Go,Home & Kitchen,BrandC,594.41,484.0,2021-05-01
+P0901,better go  ,Books,BrandF,500.77,338.44,2022-06-18
+P0902,number go  ,Home & Kitchen,BrandD,1509.9,876.17,2022-05-16
+P0903,Actually Max,Sports,BrandF,639.11,,2021-10-11
+P0904,Item Lite,Beauty,,1362.89,,2021-05-27
+P0905,Even Lite,Beauty,BrandC,1739.08,910.8,2021-07-07
+P0906,Set X,Beauty,,717.67,,2023-04-13
+P0907,Happy Max,Sports,BrandA,,260.19,2023-04-06
+P0908,For Lite,Sports,BrandA,1834.15,,2022-03-27
+P0909,Reflect Max,Beauty,BrandB,1220.46,729.76,2023-10-30
+P0910,Group Lite,Books,BrandE,1175.48,648.0,2023-12-04
+P0911,Boy X,Books,BrandD,1484.26,996.91,2024-07-14
+P0912,Better Go,Beauty,BrandD,760.16,587.11,2021-09-25
+P0913,Create Max,Home & Kitchen,BrandD,,841.96,2021-10-20
+P0914,While Lite,Apparel,BrandA,1329.49,832.74,2024-11-24
+P0915,Require Go,Home & Kitchen,BrandD,359.2,224.52,2024-08-22
+P0916,Difficult Plus,Beauty,,618.19,383.8,2022-12-18
+P0917,Administration Go,Electronics,BrandD,,646.34,2023-10-26
+P0918,Mention Go,Sports,BrandC,611.1,339.49,2022-07-05
+P0919,site pro  ,Beauty,BrandC,1286.57,647.84,2024-02-04
+P0920,writer lite  ,Home & Kitchen,BrandD,482.21,343.19,2023-04-15
+P0921,Rest Pro,Electronics,BrandC,927.39,507.67,2023-07-03
+P0922,school max  ,Sports,BrandC,1008.63,,2022-09-06
+P0923,Often Pro,Books,BrandC,1793.77,925.76,2021-01-30
+P0924,Be Lite,Beauty,BrandB,,801.67,2024-08-25
+P0925,New Max,Electronics,BrandD,300.43,217.44,2024-08-16
+P0926,General Lite,Books,BrandD,1207.99,664.6,2022-11-27
+P0927,Both X,Beauty,BrandD,303.22,,2023-09-19
+P0928,Common Pro,Home & Kitchen,BrandC,1377.28,711.75,2024-02-09
+P0929,Consider X,Apparel,BrandA,468.75,298.02,2024-01-24
+P0930,Want X,Home & Kitchen,BrandC,1156.2,,2024-07-14
+P0931,Really Pro,Beauty,BrandC,1507.87,958.15,2022-02-28
+P0932,Land Pro,Electronics,BrandE,1189.6,876.12,2023-10-28
+P0933,Price Plus,Electronics,,684.81,383.57,2021-06-07
+P0934,Party Max,Electronics,BrandF,,280.43,2021-08-26
+P0935,Avoid Lite,Sports,BrandC,165.64,266.66,2024-05-26
+P0936,Down X,Beauty,BrandF,1363.7,722.22,2024-06-24
+P0937,Election Pro,Electronics,BrandE,694.85,470.32,2021-08-14
+P0938,Arm Lite,Books,BrandD,856.63,475.93,2021-01-04
+P0939,someone plus  ,Sports,BrandC,673.3,538.49,2021-01-29
+P0940,Certainly Plus,Books,BrandF,253.42,143.18,2023-06-23
+P0941,Enjoy Plus,Apparel,BrandC,1303.42,,2024-11-29
+P0942,already lite  ,Beauty,BrandD,676.36,486.48,2022-06-30
+P0943,He Go,Electronics,BrandE,1303.91,814.68,2023-10-06
+P0944,None Lite,Beauty,,934.97,,2024-08-08
+P0945,Win X,Beauty,BrandA,867.61,558.61,2021-02-09
+P0946,Still Lite,Beauty,BrandA,1228.36,,2021-09-25
+P0947,Race Plus,Apparel,BrandF,1500.99,968.64,2022-09-12
+P0948,Those Pro,Beauty,BrandA,990.72,509.41,2023-02-01
+P0949,Structure Max,Books,,260.61,,2022-08-03
+P0950,Carry Lite,Books,BrandA,303.36,180.03,2024-04-12
+P0951,Star Lite,Sports,BrandB,551.77,366.53,2024-03-26
+P0952,Different Pro,Home & Kitchen,BrandD,637.94,486.37,2021-07-23
+P0953,Base Pro,Beauty,BrandD,840.11,468.33,2024-01-16
+P0954,Range Max,Electronics,BrandD,1597.58,865.39,2021-03-10
+P0955,because lite  ,Books,BrandD,482.3,336.12,2024-09-25
+P0956,No Pro,Beauty,BrandA,1411.74,922.9,2021-02-13
+P0957,Television Lite,Electronics,BrandF,1045.5,791.07,2022-04-15
+P0958,Marriage X,Electronics,BrandC,1190.18,836.61,2023-03-25
+P0959,He Go,Apparel,,296.77,491.62,2023-12-13
+P0960,Pull Go,Beauty,BrandE,496.27,300.24,2023-10-14
+P0961,Such Max,Beauty,BrandB,441.74,357.73,2024-10-28
+P0962,While X,Sports,BrandF,912.47,,2024-06-26
+P0963,Whatever Lite,Home & Kitchen,BrandA,,,2022-09-24
+P0964,Like Lite,Beauty,BrandC,790.76,621.4,2022-08-23
+P0965,Personal Max,Sports,BrandF,337.01,,2022-10-06
+P0966,Hair Max,Home & Kitchen,BrandB,1015.82,834.81,2023-07-14
+P0967,Seat Plus,Apparel,BrandC,1396.93,846.13,2022-07-12
+P0968,Scene X,Beauty,BrandD,664.2,463.94,2021-11-02
+P0969,Far Lite,Home & Kitchen,BrandA,1306.07,715.02,2023-10-07
+P0970,chair lite  ,Electronics,BrandF,628.38,399.78,2023-09-04
+P0971,Method Plus,Electronics,,473.16,310.42,2024-04-10
+P0972,Forward Go,Beauty,,438.68,260.77,2023-09-16
+P0973,Teacher Pro,Home & Kitchen,BrandA,1471.87,768.6,2024-12-09
+P0974,Nice Go,Sports,BrandC,441.38,240.67,2021-02-15
+P0975,Doctor X,Sports,BrandF,1294.3,925.57,2024-05-07
+P0976,Attorney Lite,Books,BrandC,1714.38,903.55,2022-12-13
+P0977,Song X,Books,BrandE,1406.04,760.93,2023-11-07
+P0978,rest x  ,Home & Kitchen,BrandC,836.51,470.77,2022-07-15
+P0979,Between Go,Apparel,BrandA,,649.43,2021-09-19
+P0980,Magazine Pro,Beauty,BrandB,447.02,510.06,2022-09-05
+P0981,Debate Plus,Apparel,BrandA,968.19,773.39,2023-08-07
+P0982,Manage Max,Electronics,BrandD,681.52,403.54,2022-07-16
+P0983,About Max,Beauty,BrandC,393.23,292.41,2021-12-27
+P0984,Source Lite,Home & Kitchen,BrandF,399.78,268.81,2023-11-17
+P0985,Day Plus,Sports,,1165.7,637.63,2023-11-04
+P0986,Government Max,Sports,BrandC,367.6,,2021-06-06
+P0987,open go  ,Apparel,BrandB,844.48,483.94,2022-08-12
+P0988,Else Lite,Books,BrandE,141.3,,2022-02-17
+P0989,if plus  ,Sports,BrandC,907.41,471.07,2021-12-27
+P0990,End Max,Beauty,BrandF,845.88,654.29,2023-12-07
+P0991,Attorney Plus,Apparel,BrandD,1164.88,588.96,2024-10-05
+P0992,Against Pro,Beauty,BrandE,1583.58,796.37,2023-07-04
+P0993,Structure Go,Apparel,BrandD,1399.57,922.17,2022-03-14
+P0994,Onto Lite,Apparel,BrandA,183.45,250.1,2022-01-13
+P0995,Series Pro,Books,BrandD,1429.83,,2024-08-06
+P0996,Fast Plus,Beauty,BrandF,530.87,274.16,2022-08-18
+P0997,Former Lite,Sports,BrandD,836.04,966.3,2022-03-13
+P0998,american x  ,Home & Kitchen,,991.0,556.49,2023-05-10
+P0999,Often Plus,Electronics,BrandE,670.54,,2023-11-29
+P1000,Daughter Pro,Apparel,BrandD,1572.99,808.0,2021-11-09
+P1001,Instead Max,Electronics,BrandE,325.33,259.66,2024-08-17
+P1002,Wonder Lite,Electronics,BrandF,1724.91,971.45,2023-08-29
+P1003,similar plus  ,Home & Kitchen,BrandB,915.92,668.38,2023-06-07
+P1004,Civil Lite,Sports,BrandF,1127.77,610.7,2028-01-01
+P1005,Security Max,Electronics,BrandA,808.97,496.46,2021-04-13
+P1006,Listen Plus,Books,BrandE,985.3,600.23,2023-05-09
+P1007,Way Lite,Beauty,BrandA,711.29,,2023-04-12
+P1008,Trial Go,Books,BrandF,1320.74,828.59,2022-02-24
+P1009,product pro  ,Beauty,BrandD,,118.81,2023-12-17
+P1010,Whatever Pro,Books,BrandD,1894.2,969.5,2022-01-29
+P1011,Goal Plus,Electronics,,1173.2,649.22,2021-09-03
+P1012,Technology Max,Apparel,BrandB,397.77,243.93,2021-04-11
+P1013,Mention Lite,Sports,BrandE,1408.97,846.86,2023-07-13
+P1014,Yet X,Beauty,BrandD,924.96,582.85,2021-09-02
+P1015,event max  ,Apparel,,844.39,578.68,2024-09-06
+P1016,Government Plus,Books,BrandF,519.98,287.01,2021-04-19
+P1017,Drive Go,Home & Kitchen,BrandF,1394.09,918.96,2021-12-12
+P1018,North Max,Home & Kitchen,BrandC,951.38,627.91,2028-01-01
+P1019,Recognize Lite,Home & Kitchen,,871.82,541.77,2024-12-16
+P1020,Republican Go,Sports,BrandB,216.41,154.49,2024-08-23
+P1021,First Pro,Beauty,BrandE,779.83,634.06,2022-03-26
+P1022,Different Lite,Apparel,BrandC,511.83,256.65,2024-05-01
+P1023,Soon Pro,Sports,BrandD,1395.3,965.35,2024-07-02
+P1024,Success Plus,Sports,BrandD,384.59,209.63,2024-03-11
+P1025,nearly go  ,Electronics,BrandE,531.82,431.2,2023-08-17
+P1026,Star Pro,Apparel,BrandF,306.42,203.32,2023-05-22
+P1027,Strong Plus,Beauty,BrandF,591.74,358.8,2024-08-31
+P1028,Charge Pro,Electronics,BrandF,1135.51,,2024-05-04
+P1029,Black Lite,Books,BrandF,1174.57,818.3,2021-06-12
+P1030,House Max,Sports,BrandC,1283.17,898.12,2024-07-31
+P1031,Go Go,Apparel,BrandC,1305.73,962.77,2022-09-07
+P1032,Campaign Max,Electronics,BrandB,,524.07,2022-05-24
+P1033,These Pro,Home & Kitchen,BrandF,1013.01,580.72,2022-04-28
+P1034,Their X,Home & Kitchen,,303.99,,2021-01-26
+P1035,key max  ,Sports,BrandC,1735.62,900.15,2023-09-25
+P1036,Crime Pro,Beauty,BrandC,384.55,514.38,2024-03-26
+P1037,recently plus  ,Apparel,BrandE,1010.94,783.55,2024-08-14
+P1038,State Plus,Home & Kitchen,BrandB,,574.96,2023-08-20
+P1039,Speech Max,Sports,BrandF,265.65,166.99,2021-12-05
+P1040,Finally Plus,Home & Kitchen,BrandC,,915.62,2021-12-06
+P1041,Science Pro,Electronics,,1077.99,589.99,2021-12-05
+P1042,practice go  ,Sports,BrandE,1459.09,822.44,2021-11-05
+P1043,moment pro  ,Home & Kitchen,BrandB,,853.36,2022-09-13
+P1044,Brother Go,Books,BrandE,1541.34,770.96,2024-10-23
+P1045,Indicate Max,Sports,BrandE,753.77,397.01,2023-02-16
+P1046,tough lite  ,Electronics,BrandD,1110.27,,2024-04-12
+P1047,Mother Go,Books,BrandC,1176.69,928.3,2023-10-23
+P1048,Throw Max,Beauty,BrandA,1266.75,871.33,2021-07-07
+P1049,Question Max,Electronics,BrandC,1376.29,,2023-04-20
+P1050,Sure Lite,Apparel,BrandC,1706.59,934.82,2024-10-06
+P1051,Fill Pro,Books,BrandF,256.54,173.41,2023-12-23
+P1052,Myself X,Sports,BrandD,610.52,323.51,2024-08-13
+P1053,character go  ,Home & Kitchen,BrandA,1756.56,949.01,2022-11-13
+P1054,language lite  ,Beauty,BrandF,261.65,188.91,2023-09-18
+P1055,Box X,Electronics,BrandC,1447.44,981.94,2021-12-13
+P1056,Loss Go,Books,BrandE,263.29,149.86,2023-01-14
+P1057,long go  ,Books,BrandA,389.95,289.74,2022-07-02
+P1058,Item Lite,Home & Kitchen,BrandD,732.27,455.65,2024-01-28
+P1059,Vote Pro,Apparel,BrandC,1371.97,775.12,2023-03-09
+P1060,Religious Go,Sports,BrandD,422.11,255.6,2024-02-06
+P1061,Natural Pro,Apparel,BrandD,626.96,323.15,2024-01-12
+P1062,country x  ,Sports,,1472.73,928.66,2024-07-05
+P1063,Great Pro,Sports,BrandA,1489.31,782.55,2021-10-03
+P1064,Meet Max,Books,BrandB,658.07,404.26,2024-06-11
+P1065,Own Lite,Beauty,BrandD,199.9,115.37,2024-07-22
+P1066,Real X,Sports,BrandA,311.6,244.69,2024-06-25
+P1067,specific pro  ,Beauty,BrandE,776.44,503.63,2024-12-13
+P1068,Century Go,Apparel,BrandE,1058.27,679.18,2021-07-23
+P1069,Discussion Max,Apparel,BrandE,979.32,525.28,2023-02-04
+P1070,Learn X,Electronics,BrandC,124.65,103.3,2021-12-18
+P1071,Contain X,Apparel,BrandF,1061.99,806.78,2023-04-26
+P1072,Feeling X,Home & Kitchen,BrandF,1358.74,719.18,2024-01-10
+P1073,happen pro  ,Apparel,BrandF,703.95,437.57,2024-08-24
+P1074,Score Pro,Apparel,BrandA,752.99,453.33,2023-03-02
+P1075,Me Plus,Apparel,BrandB,273.68,192.85,2022-11-06
+P1076,Table Pro,Home & Kitchen,BrandB,965.81,,2024-11-05
+P1077,Several Plus,Beauty,BrandB,153.66,107.67,2024-04-16
+P1078,Six Pro,Sports,BrandC,742.59,603.59,2024-10-18
+P1079,Glass Lite,Beauty,BrandF,1277.71,699.08,2023-03-29
+P1080,Phone Plus,Electronics,BrandE,973.44,672.08,2021-03-16
+P1081,Everybody Pro,Home & Kitchen,BrandF,,802.08,2023-05-29
+P1082,half plus  ,Home & Kitchen,,1179.55,720.52,2023-03-05
+P1083,Sign Pro,Apparel,,1059.84,,2024-01-08
+P1084,yeah plus  ,Books,BrandD,919.55,622.61,2024-02-28
+P1085,Fight Max,Apparel,BrandA,280.83,158.9,2021-03-24
+P1086,Huge Lite,Apparel,BrandE,1067.28,721.13,2023-09-17
+P1087,Model Pro,Electronics,BrandA,500.78,290.93,2022-07-04
+P1088,how lite  ,Home & Kitchen,BrandB,461.79,,2022-01-14
+P1089,Thousand Lite,Sports,BrandD,,972.9,2023-09-13
+P1090,Set Max,Electronics,BrandF,1047.79,,2023-12-20
+P1091,Course Plus,Home & Kitchen,BrandD,1720.77,914.55,2023-06-05
+P1092,Century Lite,Sports,BrandD,562.25,291.58,2022-08-04
+P1093,Enjoy Go,Sports,BrandE,1557.31,914.18,2023-06-03
+P1094,Rather X,Sports,BrandE,699.23,353.85,2023-07-01
+P1095,population max  ,Sports,BrandE,1160.91,742.51,2024-09-26
+P1096,Lawyer Max,Electronics,BrandC,775.98,520.76,2023-07-07
+P1097,Another Lite,Home & Kitchen,BrandB,666.17,478.1,2022-09-24
+P1098,Main Plus,Electronics,BrandE,574.53,384.91,2023-11-21
+P1099,important max  ,Electronics,BrandD,762.17,467.81,2022-04-14
+P1100,former go  ,Home & Kitchen,BrandD,,242.53,2021-07-23
+P1101,Term Plus,Electronics,BrandB,1261.52,759.19,2022-11-02
+P1102,Number Max,Home & Kitchen,BrandB,790.66,418.32,2021-12-19
+P1103,good go  ,Apparel,BrandD,,649.45,2024-05-09
+P1104,Official Max,Books,BrandF,1278.0,786.37,2024-06-09
+P1105,Attention Go,Books,BrandD,1696.76,921.94,2022-11-28
+P1106,City Lite,Sports,BrandB,941.96,752.92,2023-04-02
+P1107,Professor Go,Electronics,BrandF,537.02,283.31,2023-10-01
+P1108,Size Lite,Apparel,BrandD,858.77,652.34,2021-12-13
+P1109,Might Plus,Beauty,BrandF,1230.68,801.69,2023-04-29
+P1110,foot lite  ,Beauty,BrandE,807.46,657.5,2023-11-26
+P1111,talk plus  ,Apparel,BrandB,538.62,387.1,2021-02-04
+P1112,Responsibility Go,Electronics,BrandA,,894.61,2024-06-21
+P1113,Finish Lite,Beauty,BrandF,332.29,206.85,2022-02-14
+P1114,Fight Max,Apparel,BrandF,964.82,483.7,2023-12-25
+P1115,Success Lite,Electronics,BrandE,1801.61,933.15,2022-04-21
+P1116,Human X,Sports,BrandC,1170.86,,2024-12-26
+P1117,Compare Lite,Sports,BrandE,1577.17,866.0,2021-02-26
+P1118,Image Max,Electronics,,691.97,,2024-08-03
+P1119,Attack Lite,Books,BrandA,1720.54,865.46,2021-07-14
+P1120,Capital Pro,Home & Kitchen,,,227.93,2024-08-12
+P1121,List Go,Beauty,BrandE,,953.7,2021-07-08
+P1122,Pm Pro,Books,BrandA,775.09,497.89,2023-05-07
+P1123,Front Plus,Home & Kitchen,BrandE,1407.23,896.59,2021-01-25
+P1124,Sound Plus,Apparel,BrandB,,686.85,2021-04-07
+P1125,Including Go,Beauty,,839.25,647.33,2021-10-16
+P1126,See Max,Electronics,BrandC,848.05,,2022-09-18
+P1127,And Max,Home & Kitchen,,610.21,350.03,2022-12-20
+P1128,Worker Plus,Beauty,BrandF,1109.97,738.76,2022-09-01
+P1129,Send Pro,Beauty,BrandB,508.25,314.36,2023-04-04
+P1130,Suggest Pro,Home & Kitchen,BrandD,1017.57,779.37,2024-08-15
+P1131,Sit Pro,Books,BrandB,1183.53,904.35,2024-04-17
+P1132,Second Max,Electronics,BrandE,1171.15,,2022-08-27
+P1133,Whole Pro,Beauty,BrandD,1075.18,,2021-09-02
+P1134,Consumer Max,Electronics,,527.2,349.96,2022-08-24
+P1135,Former X,Sports,BrandB,1236.45,954.55,2021-06-15
+P1136,Poor X,Home & Kitchen,,1097.02,645.67,2024-05-30
+P1137,Catch Go,Books,BrandC,740.72,506.05,2021-04-08
+P1138,Garden X,Electronics,BrandD,399.0,583.76,2022-01-18
+P1139,factor plus  ,Electronics,,1179.29,676.78,2022-12-05
+P1140,foreign x  ,Electronics,,191.42,114.66,2024-11-30
+P1141,Growth X,Electronics,BrandB,827.66,649.57,2021-09-15
+P1142,Scene Plus,Beauty,BrandA,515.97,425.82,2021-02-09
+P1143,Share Go,Sports,,456.34,313.32,2021-12-25
+P1144,Stuff Pro,Beauty,,398.18,328.33,2021-06-19
+P1145,Hour Pro,Home & Kitchen,BrandC,413.5,228.59,2021-01-30
+P1146,Just Lite,Apparel,BrandC,317.93,501.35,2022-04-07
+P1147,Arm Pro,Home & Kitchen,BrandD,1235.84,786.01,2022-09-16
+P1148,Up Pro,Books,BrandD,999.74,643.59,2022-02-21
+P1149,so x  ,Books,BrandC,529.53,359.79,2024-12-14
+P1150,wall pro  ,Home & Kitchen,BrandF,819.11,479.43,2021-07-04
+P1151,Lawyer Plus,Apparel,BrandD,864.44,707.13,2021-09-13
+P1152,Evidence Go,Sports,,,,2024-10-27
+P1153,Per Max,Sports,BrandC,1053.25,595.87,2024-03-29
+P1154,Wish Max,Books,BrandD,,204.43,2024-10-30
+P1155,cause lite  ,Books,BrandC,542.33,315.39,2024-09-13
+P1156,Meeting X,Home & Kitchen,BrandA,438.8,640.34,2021-07-19
+P1157,Represent Go,Books,BrandF,92.7,109.63,2021-05-19
+P1158,Final Plus,Beauty,BrandD,1338.6,985.74,2024-02-26
+P1159,City Lite,Electronics,BrandD,,278.38,2023-08-18
+P1160,Pm Pro,Beauty,,1131.04,814.17,2022-03-11
+P1161,Might Plus,Books,BrandB,324.36,174.59,2021-07-20
+P1162,Remember X,Beauty,BrandA,872.83,632.28,2022-10-17
+P1163,Reduce Plus,Beauty,BrandE,530.39,267.62,2021-09-04
+P1164,Kind Go,Electronics,BrandF,1025.54,805.53,2023-07-14
+P1165,Product Max,Beauty,BrandB,342.44,208.96,2024-09-11
+P1166,Reduce Lite,Electronics,BrandA,1056.33,680.43,2021-11-25
+P1167,cup pro  ,Electronics,BrandF,1473.66,954.05,2024-12-07
+P1168,Budget X,Sports,BrandD,1235.74,661.33,2021-01-07
+P1169,street pro  ,Apparel,BrandA,1414.8,852.99,2021-06-25
+P1170,Send X,Beauty,BrandB,633.28,317.77,2021-09-16
+P1171,ahead max  ,Home & Kitchen,BrandD,830.08,435.18,2024-05-16
+P1172,consider x  ,Electronics,BrandB,1029.12,830.26,2023-03-29
+P1173,Garden X,Beauty,BrandC,1143.57,698.04,2024-06-12
+P1174,Professional Plus,Books,BrandE,777.15,602.72,2022-06-28
+P1175,plan max  ,Beauty,BrandC,516.32,298.31,2022-10-01
+P1176,More Max,Sports,BrandA,140.6,101.32,2022-11-08
+P1177,Ok Lite,Sports,BrandA,437.21,344.18,2021-03-27
+P1178,Spring Go,Sports,BrandF,218.11,131.47,2024-10-31
+P1179,Speak Lite,Books,BrandE,1191.98,,2021-04-29
+P1180,One X,Beauty,BrandC,629.21,344.54,2023-07-12
+P1181,Green Max,Books,BrandA,201.8,107.36,2024-04-14
+P1182,anything max  ,Beauty,BrandD,1419.3,875.2,2023-05-25
+P1183,Word Max,Electronics,BrandB,583.93,375.88,2024-01-12
+P1184,Tonight Pro,Home & Kitchen,BrandF,342.16,247.5,2023-08-09
+P1185,Until X,Books,BrandC,364.63,267.05,2023-03-03
+P1186,team lite  ,Beauty,BrandE,772.0,395.13,2023-02-24
+P1187,when lite  ,Sports,BrandE,622.33,,2022-08-02
+P1188,May Pro,Sports,BrandB,1200.2,764.11,2024-01-13
+P1189,Court Max,Books,BrandE,823.12,528.13,2024-10-27
+P1190,Through Lite,Apparel,BrandC,574.86,332.92,2023-06-13
+P1191,Because X,Electronics,BrandD,724.34,583.92,2021-11-07
+P1192,Position Go,Home & Kitchen,BrandE,208.53,145.73,2022-11-07
+P1193,Start Max,Electronics,BrandA,1074.28,726.75,2024-01-03
+P1194,Item Max,Electronics,BrandC,,754.57,2022-02-25
+P1195,Rather Go,Apparel,BrandA,,783.32,2024-08-01
+P1196,Oil Max,Sports,BrandB,,595.14,2021-04-18
+P1197,Value Plus,Apparel,BrandD,267.43,177.51,2024-05-18
+P1198,Represent X,Apparel,BrandD,1242.55,896.9,2021-05-06
+P1199,agreement pro  ,Books,BrandB,1194.79,966.84,2023-11-10
+P1200,Change Plus,Home & Kitchen,BrandC,1502.7,886.41,2022-01-03
+P1201,Pattern Lite,Home & Kitchen,BrandB,364.56,248.13,2024-09-08
+P1202,Test Max,Beauty,BrandC,754.65,535.15,2022-04-09
+P1203,list plus  ,Sports,BrandC,348.99,192.49,2021-07-13
+P1204,Approach X,Home & Kitchen,BrandC,,193.11,2024-05-28
+P1205,How Pro,Home & Kitchen,BrandF,182.86,102.86,2024-06-11
+P1206,Believe Pro,Apparel,BrandA,,855.41,2021-03-17
+P1207,Effort Max,Sports,BrandF,682.73,,2022-04-25
+P1208,Cover X,Beauty,BrandA,663.63,471.34,2024-04-16
+P1209,consider lite  ,Sports,BrandA,271.66,202.48,2021-03-08
+P1210,Eye Max,Electronics,BrandA,709.9,590.68,2024-10-04
+P1211,Expect Max,Sports,BrandC,636.31,,2021-05-21
+P1212,Language Max,Apparel,,782.81,512.32,2024-04-18
+P1213,Practice Go,Electronics,BrandC,979.05,,2022-02-05
+P1214,Yes Plus,Electronics,BrandF,544.06,304.08,2023-08-22
+P1215,School Pro,Sports,BrandD,637.33,330.39,2022-07-29
+P1216,Lawyer Pro,Books,,1341.26,878.29,2021-02-18
+P1217,Condition Max,Beauty,BrandE,819.85,666.74,2023-10-04
+P1218,Sense Plus,Books,BrandB,1745.94,927.07,2021-08-28
+P1219,Draw Lite,Books,BrandC,307.24,178.78,2024-06-27
+P1220,night max  ,Electronics,BrandD,624.68,793.07,2024-11-04
+P1221,Third Max,Beauty,BrandF,1092.72,661.33,2023-10-02
+P1222,Pm Pro,Books,BrandD,1141.9,708.24,2024-05-02
+P1223,While Pro,Home & Kitchen,BrandA,546.08,428.93,2024-02-28
+P1224,Face Plus,Home & Kitchen,BrandA,576.78,465.48,2022-01-31
+P1225,Table Go,Home & Kitchen,BrandB,530.15,402.0,2021-06-21
+P1226,Force X,Sports,BrandC,1173.19,943.38,2028-01-01
+P1227,certain pro  ,Beauty,,771.88,606.58,2021-09-26
+P1228,Ahead Max,Books,BrandA,206.83,,2021-01-08
+P1229,Focus Plus,Home & Kitchen,,1005.9,619.1,2023-03-09
+P1230,Surface X,Books,BrandF,488.02,339.41,2024-10-01
+P1231,Try X,Books,BrandA,540.48,324.24,2023-07-11
+P1232,Easy Go,Apparel,BrandE,449.45,337.41,2022-10-19
+P1233,His Plus,Apparel,BrandA,1331.12,925.62,2021-10-31
+P1234,Responsibility Max,Apparel,BrandC,1435.3,929.15,2021-07-28
+P1235,involve lite  ,Home & Kitchen,BrandE,1092.24,691.27,2021-02-14
+P1236,enter plus  ,Home & Kitchen,BrandB,1263.27,,2023-12-11
+P1237,Able Plus,Home & Kitchen,BrandE,,528.18,2022-07-17
+P1238,Back Max,Beauty,BrandC,797.31,429.8,2022-07-23
+P1239,Clearly Pro,Beauty,BrandB,,972.01,2023-01-11
+P1240,If Go,Home & Kitchen,BrandC,594.59,404.23,2022-10-15
+P1241,Type Max,Books,BrandC,1888.41,966.09,2022-12-13
+P1242,Lay Plus,Books,BrandB,1363.16,,2023-11-19
+P1243,Mother X,Beauty,,,403.72,2021-03-27
+P1244,Remain X,Home & Kitchen,BrandF,592.07,459.49,2022-10-14
+P1245,Above X,Beauty,BrandD,1222.2,795.81,2024-05-19
+P1246,Official Lite,Sports,BrandD,1199.97,934.67,2023-07-06
+P1247,People Go,Sports,BrandA,1270.92,646.93,2023-07-31
+P1248,worker max  ,Beauty,BrandC,310.77,238.85,2022-09-16
+P1249,Right Max,Apparel,BrandE,1086.51,741.8,2021-07-07
+P1250,Soldier Go,Sports,,702.51,545.56,2023-09-15
+P1251,Position Go,Electronics,BrandA,318.65,175.82,2021-11-12
+P1252,Mind Go,Sports,BrandC,1456.18,808.27,2022-02-07
+P1253,Because Pro,Home & Kitchen,BrandC,1376.36,694.28,2024-09-22
+P1254,Side Lite,Beauty,BrandC,701.9,496.59,2024-03-27
+P1255,Today X,Beauty,BrandF,1781.1,989.18,2023-05-04
+P1256,Only Max,Apparel,,1365.21,787.22,2023-08-17
+P1257,big x  ,Sports,BrandA,1802.12,964.37,2021-05-04
+P1258,once lite  ,Beauty,BrandF,,905.9,2022-10-25
+P1259,Record Pro,Books,BrandE,1269.26,,2023-09-06
+P1260,Nor X,Sports,BrandF,1028.04,604.3,2024-06-02
+P1261,Reach Pro,Beauty,BrandA,,,2022-12-15
+P1262,Senior Go,Beauty,BrandB,442.44,228.53,2021-02-17
+P1263,Clearly Lite,Beauty,BrandE,1253.45,854.28,2022-10-18
+P1264,Some Max,Home & Kitchen,,1335.52,826.31,2021-01-17
+P1265,Size Pro,Books,BrandA,285.03,221.46,2021-07-31
+P1266,Ask Plus,Books,BrandD,1613.27,969.55,2023-03-05
+P1267,Letter Go,Electronics,BrandD,447.65,348.47,2024-04-28
+P1268,Either X,Home & Kitchen,BrandF,506.31,393.4,2023-10-27
+P1269,Investment Pro,Books,BrandE,662.38,,2023-05-09
+P1270,party pro  ,Apparel,BrandB,567.78,332.05,2021-09-11
+P1271,Rate X,Beauty,BrandD,401.97,283.18,2022-08-17
+P1272,Participant Pro,Apparel,BrandB,575.78,308.66,2024-02-04
+P1273,Your Lite,Beauty,BrandC,828.47,436.06,2023-05-16
+P1274,environment pro  ,Electronics,BrandB,,583.22,2023-01-18
+P1275,No Pro,Books,BrandF,511.44,255.88,2023-02-26
+P1276,Similar Go,Apparel,BrandC,792.28,571.99,2021-09-03
+P1277,life x  ,Beauty,BrandC,905.81,672.23,2024-02-17
+P1278,Stop X,Books,BrandB,328.45,184.48,2021-10-30
+P1279,Easy X,Electronics,BrandA,780.27,,2021-04-18
+P1280,Environmental X,Electronics,BrandE,551.73,452.2,2021-10-19
+P1281,Party Pro,Beauty,BrandE,1318.7,778.94,2023-04-16
+P1282,Miss Max,Sports,BrandC,764.69,515.71,2022-03-30
+P1283,Enter Max,Beauty,BrandE,,492.94,2022-12-06
+P1284,Field Go,Apparel,,1089.86,793.82,2024-01-16
+P1285,Follow X,Beauty,BrandF,1022.51,799.25,2023-06-11
+P1286,Whether Pro,Beauty,BrandF,,695.25,2024-11-12
+P1287,Season Pro,Electronics,BrandA,494.83,308.19,2024-08-18
+P1288,Community Go,Apparel,BrandB,744.28,,2023-04-07
+P1289,Student X,Apparel,BrandE,522.64,,2021-03-20
+P1290,Size X,Beauty,BrandF,720.98,939.07,2022-04-24
+P1291,Audience X,Sports,,879.16,661.25,2022-08-30
+P1292,Network Lite,Home & Kitchen,BrandE,1075.13,583.15,2024-12-06
+P1293,Rate Pro,Apparel,BrandA,1127.77,822.37,2024-08-11
+P1294,Decade Lite,Sports,,,403.84,2022-11-03
+P1295,Effect Max,Apparel,BrandD,408.55,335.1,2024-05-29
+P1296,Ball X,Sports,BrandC,1153.25,736.23,2021-12-16
+P1297,Girl Max,Sports,BrandA,1049.33,820.03,2023-06-20
+P1298,Strategy X,Electronics,BrandD,651.52,374.13,2024-09-17
+P1299,Believe Pro,Beauty,BrandF,,857.03,2021-01-18
+P1300,Letter X,Apparel,,777.17,388.96,2023-12-30
+P1301,Under Pro,Home & Kitchen,,257.36,150.48,2023-09-28
+P1302,Dream Plus,Books,BrandF,1648.09,852.13,2021-05-08
+P1303,Shake Go,Sports,BrandF,1593.05,807.1,2024-07-25
+P1304,Week Go,Sports,,1045.43,586.19,2022-01-12
+P1305,particular max  ,Beauty,BrandF,612.96,353.39,2022-10-02
+P1306,six plus  ,Books,BrandE,1039.04,638.22,2023-02-09
+P1307,Go Plus,Sports,BrandA,1185.24,643.61,2022-01-11
+P1308,Step Lite,Books,BrandB,994.15,654.95,2023-04-05
+P1309,Concern Max,Electronics,BrandE,747.16,459.26,2022-04-30
+P1310,Hear Lite,Electronics,,559.18,372.67,2022-06-22
+P1311,Message Max,Beauty,BrandC,326.12,,2023-12-18
+P1312,Cold Pro,Apparel,BrandB,903.67,682.81,2024-07-23
+P1313,Might Go,Sports,,1358.58,946.84,2022-08-09
+P1314,Environmental Go,Beauty,,618.23,429.51,2022-11-22
+P1315,Something X,Sports,BrandF,967.18,510.69,2021-09-20
+P1316,Activity Lite,Beauty,BrandF,935.86,586.51,2024-07-17
+P1317,Into X,Apparel,BrandA,,129.58,2023-03-27
+P1318,Question X,Electronics,BrandF,1001.78,824.62,2022-02-21
+P1319,Good Lite,Sports,BrandC,1004.34,716.62,2021-09-03
+P1320,Father Lite,Sports,BrandD,1826.97,930.53,2024-02-08
+P1321,Well Pro,Apparel,BrandE,253.23,,2021-05-10
+P1322,Medical Plus,Electronics,BrandE,508.94,355.4,2023-09-02
+P1323,Grow Plus,Home & Kitchen,BrandE,839.4,515.09,2022-09-30
+P1324,Detail Pro,Sports,BrandC,,405.04,2024-05-21
+P1325,State Go,Beauty,BrandC,1244.45,802.84,2022-02-25
+P1326,Ever X,Beauty,BrandC,1398.7,866.13,2023-09-24
+P1327,Knowledge Go,Beauty,BrandA,,165.08,2022-09-23
+P1328,Expect Go,Books,BrandC,437.19,232.44,2021-07-07
+P1329,Identify Max,Sports,BrandE,972.99,704.39,2023-09-11
+P1330,Add Max,Books,BrandB,1485.96,801.28,2022-10-12
+P1331,Maintain Lite,Apparel,BrandF,1216.51,897.37,2023-02-02
+P1332,Your Max,Electronics,BrandD,486.91,301.96,2022-03-15
+P1333,Item Plus,Home & Kitchen,BrandC,1829.16,923.75,2023-08-16
+P1334,Grow Max,Electronics,BrandF,569.24,,2023-01-20
+P1335,Blood Plus,Books,BrandE,406.14,251.24,2024-11-25
+P1336,Room Pro,Beauty,BrandC,191.7,,2023-08-04
+P1337,Option Go,Books,BrandE,1628.62,985.54,2021-09-25
+P1338,traditional x  ,Sports,BrandF,,407.21,2023-06-06
+P1339,Get Max,Beauty,BrandC,1232.54,687.09,2021-08-17
+P1340,free max  ,Books,BrandC,,220.47,2023-10-31
+P1341,Time Pro,Sports,BrandF,,945.9,2023-12-19
+P1342,Visit X,Apparel,BrandB,,573.8,2024-06-26
+P1343,Large Lite,Books,BrandC,633.24,336.29,2023-11-28
+P1344,Everything Go,Home & Kitchen,BrandE,364.75,290.36,2023-02-21
+P1345,Evidence Plus,Apparel,,,214.92,2021-08-03
+P1346,Begin Go,Sports,BrandB,739.06,558.23,2021-09-01
+P1347,Reason Max,Home & Kitchen,BrandF,1087.42,584.6,2021-09-09
+P1348,ahead go  ,Books,BrandF,319.75,178.09,2023-01-21
+P1349,Thing Lite,Beauty,BrandB,642.12,346.32,2021-11-26
+P1350,Peace Plus,Beauty,BrandF,587.39,,2021-06-29
+P1351,Summer Pro,Beauty,,319.64,160.66,2021-05-24
+P1352,A Lite,Sports,BrandE,1172.38,644.04,2022-11-23
+P1353,Threat Pro,Home & Kitchen,BrandE,794.95,448.37,2023-11-23
+P1354,Light Max,Beauty,BrandB,152.1,103.49,2024-01-24
+P1355,Morning Lite,Apparel,BrandD,852.14,660.66,2022-05-11
+P1356,Go Plus,Electronics,BrandD,,,2021-07-14
+P1357,Only X,Home & Kitchen,BrandB,841.3,666.27,2023-01-13
+P1358,Save Plus,Books,BrandF,179.65,140.12,2022-04-15
+P1359,Large Max,Sports,BrandD,372.8,290.32,2021-03-26
+P1360,Hot Lite,Beauty,BrandC,592.89,365.52,2024-08-07
+P1361,bag max  ,Beauty,BrandB,477.9,333.31,2022-03-14
+P1362,Several Plus,Sports,BrandA,346.03,370.09,2021-11-01
+P1363,Same Plus,Sports,BrandF,880.73,509.64,2021-10-26
+P1364,Bit Max,Beauty,BrandF,375.93,272.72,2024-05-06
+P1365,Series Max,Beauty,BrandE,1452.55,960.29,2021-10-07
+P1366,Dog Max,Beauty,BrandE,,841.0,2024-05-21
+P1367,Manage Max,Electronics,BrandE,1145.51,,2022-08-05
+P1368,Red Pro,Books,,1268.2,670.32,2024-04-29
+P1369,My Plus,Apparel,BrandD,336.41,220.66,2024-05-13
+P1370,Over X,Electronics,BrandC,516.69,291.07,2024-03-12
+P1371,Dark Go,Books,BrandB,,898.11,2021-10-18
+P1372,Off X,Books,BrandB,1673.98,998.89,2022-01-08
+P1373,Give Plus,Beauty,BrandD,1361.76,815.74,2023-11-04
+P1374,simple lite  ,Home & Kitchen,BrandF,,269.76,2024-03-21
+P1375,Conference X,Apparel,BrandC,996.74,632.49,2024-10-08
+P1376,Agency Go,Apparel,BrandD,931.66,,2022-05-31
+P1377,price pro  ,Beauty,BrandD,835.15,674.39,2022-12-22
+P1378,Resource Pro,Electronics,BrandC,1762.42,955.81,2021-06-18
+P1379,Stand Go,Beauty,BrandA,374.32,302.37,2023-06-09
+P1380,develop plus  ,Electronics,BrandF,258.74,,2028-01-01
+P1381,Institution Max,Beauty,BrandF,590.56,,2021-08-25
+P1382,From Lite,Apparel,BrandC,472.21,326.88,2021-12-09
+P1383,Up Lite,Electronics,,711.31,385.55,2024-09-29
+P1384,Feeling Plus,Beauty,BrandE,271.09,197.12,2023-08-10
+P1385,Music X,Books,BrandA,,646.6,2023-08-26
+P1386,think go  ,Sports,BrandD,,,2023-09-22
+P1387,Work Pro,Beauty,BrandF,1211.57,714.41,2022-12-11
+P1388,Mind Plus,Home & Kitchen,BrandA,1022.67,,2024-03-04
+P1389,Before X,Sports,BrandC,690.66,374.0,2024-03-29
+P1390,Somebody Lite,Sports,BrandA,677.6,472.26,2022-12-23
+P1391,Trip Lite,Sports,BrandA,1056.12,539.77,2022-11-07
+P1392,About X,Sports,BrandF,555.63,322.13,2022-03-31
+P1393,Say Max,Sports,BrandD,,234.17,2024-04-04
+P1394,Effect Go,Home & Kitchen,BrandC,228.17,153.47,2021-10-16
+P1395,Try Go,Sports,BrandA,386.47,256.98,2021-04-19
+P1396,Feel X,Electronics,BrandC,183.83,133.36,2021-05-19
+P1397,Agreement Pro,Sports,BrandB,1542.65,,2024-09-06
+P1398,Certain Max,Beauty,BrandD,1697.85,878.3,2023-10-23
+P1399,Cultural Lite,Electronics,BrandA,914.7,471.23,2024-11-01
+P1400,Catch X,Beauty,BrandB,1098.43,,2021-09-21
+P1401,Market Max,Beauty,BrandB,1200.18,624.93,2023-11-26
+P1402,Century Max,Apparel,BrandB,1440.84,995.95,2022-10-08
+P1403,Wide Plus,Electronics,BrandA,1408.26,,2022-07-27
+P1404,eat x  ,Sports,BrandD,631.46,459.64,2021-10-25
+P1405,Wear Pro,Books,BrandE,795.57,636.86,2021-11-09
+P1406,Carry X,Apparel,BrandF,297.65,194.03,2021-06-12
+P1407,Bring Plus,Books,BrandF,558.33,290.46,2023-03-30
+P1408,mr plus  ,Electronics,,,978.46,2023-02-02
+P1409,Moment Go,Beauty,BrandF,942.05,782.86,2021-12-31
+P1410,Respond X,Apparel,,1178.08,895.21,2021-02-11
+P1411,Art Go,Apparel,BrandC,1205.03,701.9,2022-06-19
+P1412,More Max,Sports,,1186.71,812.56,2024-11-17
+P1413,War Pro,Home & Kitchen,BrandA,,484.24,2023-01-21
+P1414,Congress Plus,Electronics,BrandF,938.79,560.42,2023-01-25
+P1415,Model Pro,Sports,BrandD,285.16,150.89,2021-02-23
+P1416,everybody x  ,Sports,BrandD,1607.19,880.68,2021-11-24
+P1417,Our Go,Beauty,BrandD,124.35,172.61,2024-03-12
+P1418,Investment X,Electronics,BrandB,420.29,247.6,2024-12-31
+P1419,Moment Go,Books,BrandE,674.81,546.56,2024-03-27
+P1420,Five Plus,Books,BrandB,1234.95,867.58,2022-05-15
+P1421,Nature Lite,Electronics,BrandF,678.56,417.44,2021-11-17
+P1422,Item Pro,Home & Kitchen,BrandF,114.22,172.84,2023-12-13
+P1423,List X,Beauty,BrandF,915.86,,2024-05-13
+P1424,Her Lite,Home & Kitchen,BrandB,884.87,660.36,2024-05-15
+P1425,Role X,Electronics,BrandB,576.68,413.16,2023-11-09
+P1426,Professor Lite,Electronics,,,144.56,2022-02-19
+P1427,other lite  ,Beauty,BrandF,1440.98,930.87,2021-05-18
+P1428,Again Go,Books,BrandC,1146.87,940.46,2024-09-21
+P1429,Culture Max,Electronics,,786.29,550.31,2024-08-17
+P1430,Carry Plus,Electronics,,,721.99,2024-06-26
+P1431,Worry Go,Beauty,BrandF,767.91,,2022-03-12
+P1432,Student Lite,Books,BrandB,636.27,413.44,2021-08-26
+P1433,Nothing Lite,Electronics,BrandF,1308.26,693.69,2024-12-09
+P1434,He Lite,Books,BrandA,628.34,354.3,2023-01-21
+P1435,Thank Go,Home & Kitchen,BrandE,666.56,404.18,2023-02-19
+P1436,Four Lite,Home & Kitchen,BrandC,366.82,269.31,2021-04-26
+P1437,center max  ,Books,BrandA,537.47,,2023-05-08
+P1438,Seek Pro,Apparel,BrandE,157.89,113.47,2022-03-07
+P1439,Body Pro,Electronics,,896.9,714.04,2023-08-03
+P1440,Generation Lite,Home & Kitchen,BrandD,385.56,264.95,2023-08-26
+P1441,sound go  ,Apparel,BrandB,482.5,300.3,2023-05-13
+P1442,Box Plus,Books,BrandE,1756.99,959.54,2022-03-26
+P1443,Home Pro,Beauty,BrandD,1447.66,746.49,2022-11-24
+P1444,Unit Lite,Books,BrandA,819.11,501.67,2022-07-14
+P1445,Doctor Pro,Books,BrandD,921.59,,2023-06-28
+P1446,Act Go,Electronics,BrandB,1344.85,892.21,2023-12-05
+P1447,Rate X,Apparel,BrandA,1320.27,730.56,2022-02-21
+P1448,Leg Plus,Apparel,BrandB,1515.81,775.39,2023-08-19
+P1449,Money Pro,Electronics,BrandA,1100.3,679.59,2024-04-13
+P1450,Student Max,Home & Kitchen,BrandF,714.21,454.9,2022-10-11
+P1451,Off X,Beauty,BrandF,680.88,380.67,2023-09-23
+P1452,Sell Lite,Beauty,BrandC,169.46,133.29,2022-06-19
+P1453,garden max  ,Electronics,,142.55,189.3,2023-08-06
+P1454,Lot Max,Home & Kitchen,BrandA,146.28,103.7,2021-10-10
+P1455,Traditional Max,Electronics,BrandE,602.72,406.41,2021-04-11
+P1456,Arm Lite,Apparel,BrandE,227.16,,2024-06-29
+P1457,Structure Max,Books,BrandE,1332.78,758.06,2022-01-17
+P1458,The Plus,Apparel,BrandD,1699.75,856.02,2023-10-03
+P1459,Language Max,Books,BrandC,1279.87,752.22,2023-12-22
+P1460,Available Plus,Beauty,BrandB,584.86,469.38,2023-05-28
+P1461,daughter max  ,Electronics,BrandC,1211.76,671.01,2022-12-06
+P1462,energy plus  ,Home & Kitchen,BrandB,1171.51,913.41,2023-09-21
+P1463,century pro  ,Electronics,BrandF,,418.89,2023-03-17
+P1464,Interview Lite,Sports,BrandE,1393.09,992.4,2024-10-08
+P1465,Purpose Max,Electronics,BrandC,1259.03,873.18,2024-11-25
+P1466,Knowledge Go,Beauty,BrandC,,546.39,2022-07-24
+P1467,Police Lite,Electronics,BrandE,749.99,386.62,2022-11-13
+P1468,Final X,Sports,BrandB,220.89,176.37,2022-01-31
+P1469,Forget X,Beauty,BrandF,147.05,110.4,2021-09-11
+P1470,Investment Pro,Electronics,BrandD,901.49,618.5,2023-07-10
+P1471,Business Pro,Books,,682.41,432.88,2022-03-15
+P1472,Worry Go,Apparel,BrandE,737.22,480.02,2023-09-14
+P1473,Attack X,Beauty,,231.17,151.59,2021-12-14
+P1474,Go Pro,Apparel,BrandF,,368.07,2021-05-21
+P1475,who pro  ,Apparel,BrandF,908.06,536.28,2022-10-21
+P1476,Cause X,Apparel,BrandC,916.04,509.42,2023-08-08
+P1477,But Max,Apparel,BrandC,1425.03,951.0,2023-11-18
+P1478,Three Go,Apparel,BrandB,1272.8,,2024-01-03
+P1479,Body Go,Home & Kitchen,BrandB,881.24,625.0,2024-04-06
+P1480,Start Plus,Sports,BrandF,,970.98,2023-10-24
+P1481,Usually Go,Sports,,696.61,416.15,2024-09-23
+P1482,measure plus  ,Electronics,BrandB,513.93,371.72,2021-12-13
+P1483,water x  ,Apparel,BrandD,217.47,152.82,2021-10-14
+P1484,Some Max,Sports,BrandF,1366.4,954.62,2022-09-09
+P1485,Republican Lite,Books,BrandE,,334.73,2021-06-14
+P1486,Good Max,Books,BrandF,492.86,562.21,2021-04-03
+P1487,History Go,Electronics,BrandB,755.38,380.63,2023-06-14
+P1488,Seem Lite,Home & Kitchen,,,912.04,2023-05-08
+P1489,South Max,Beauty,BrandF,1186.63,807.62,2022-02-20
+P1490,Book Plus,Home & Kitchen,BrandC,359.04,217.0,2021-04-08
+P1491,Compare Max,Electronics,BrandA,1172.52,822.71,2022-06-16
+P1492,Eight X,Sports,BrandF,1052.73,691.55,2024-02-18
+P1493,All Max,Electronics,BrandF,342.92,226.73,2022-08-23
+P1494,Time X,Apparel,BrandD,1031.59,,2024-10-28
+P1495,Training Go,Books,BrandA,441.95,,2021-02-06
+P1496,tree go  ,Sports,BrandE,1519.69,832.34,2023-01-09
+P1497,Start Lite,Beauty,BrandB,1506.48,903.68,2021-04-16
+P1498,Practice Lite,Home & Kitchen,BrandB,801.53,462.18,2023-12-23
+P1499,nature x  ,Beauty,BrandB,1290.21,,2022-05-02
+P1500,Speech Go,Sports,BrandF,326.55,190.84,2024-01-01
