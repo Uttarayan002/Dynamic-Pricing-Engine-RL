@@ -1,7 +1,7 @@
 # Dynamic Pricing Engine for Niche E-commerce Using Reinforcement Learning (In-Progress)
 ## Executive Summary
 **What’s the problem?**
-E‑commerce platforms often use static, one‑size‑fits‑all discount rules (For instance, 10% off every item after 30 days). This approach fails to adapt to changing demand, inventory levels, product life‑cycles, and competitor pricing—leading to lost sales opportunities, margin erosion, and stock‑out or overstock risks.
+E‑commerce platforms often use static, one‑size‑fits‑all discount rules (For instance, 10% off every item after 30 days). This approach fails to adapt to changing demand, inventory levels, product life‑cycles, and competitor pricing, leading to lost sales opportunities, margin erosion, and stock‑out or overstock risks.
 
 **Why are we solving it?**
 The revenue and profitability hinge on getting price right every time. A smarter, data‑driven pricing engine can:
