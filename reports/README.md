@@ -13,3 +13,8 @@ methodology.md            # Detailed explanation of approach
 
 results.md                # Final performance metrics and comparisons
 
+ML: Model performance comparison charts, confusion matrices, learning curves, feature importance plots.
+
+RL: Reward curves, policy evaluation results, training timelines.
+
+DS: Data profiling reports (e.g., from pandas-profiling), statistical analysis, EDA plots.
